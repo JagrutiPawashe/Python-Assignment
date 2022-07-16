@@ -1,0 +1,2234 @@
+,customer_id,loyalty_score,product_id,product_category,product_description,purchase_count
+0,C1,7,P01,house,detergent,1.0
+1,C1,7,P03,house,bin liners,2.0
+2,C1,7,P04,house,shower gel,1.0
+3,C1,7,P05,house,scented candles,2.0
+4,C1,7,P06,house,fabric softener,2.0
+5,C1,7,P07,house,cling film,1.0
+6,C1,7,P08,house,aluminium foil,1.0
+7,C1,7,P10,house,kitchen knife,2.0
+8,C1,7,P11,house,dishwasher tablets,1.0
+9,C1,7,P12,house,ice pack,1.0
+10,C1,7,P22,fruit_veg,avocado,1.0
+11,C1,7,P28,fruit_veg,grapes,1.0
+12,C1,7,P34,fruit_veg,raspberries,1.0
+13,C1,7,P39,sweets,ice cream,1.0
+14,C1,7,P40,sweets,irn bru,3.0
+15,C10,5,P05,house,scented candles,2.0
+16,C10,5,P09,house,toilet paper,1.0
+17,C10,5,P11,house,dishwasher tablets,1.0
+18,C10,5,P39,sweets,ice cream,1.0
+19,C10,5,P47,food,whole chicken,1.0
+20,C10,5,P49,food,smoked salmon,1.0
+21,C10,5,P51,food,pizza,1.0
+22,C10,5,P53,food,peanut butter,1.0
+23,C100,8,P22,fruit_veg,avocado,2.0
+24,C100,8,P23,fruit_veg,cherries,3.0
+25,C100,8,P26,fruit_veg,broccoli,2.0
+26,C100,8,P27,fruit_veg,potatoes,2.0
+27,C100,8,P28,fruit_veg,grapes,1.0
+28,C100,8,P29,fruit_veg,easy peeler,1.0
+29,C100,8,P30,fruit_veg,mango,2.0
+30,C100,8,P32,fruit_veg,onions,2.0
+31,C100,8,P34,fruit_veg,raspberries,2.0
+32,C100,8,P43,food,mince beef,1.0
+33,C100,8,P47,food,whole chicken,1.0
+34,C101,2,P35,sweets,carrot cake,2.0
+35,C101,2,P36,sweets,salted caramel dark chocolate,3.0
+36,C101,2,P37,sweets,gummy bears,3.0
+37,C101,2,P38,sweets,kombucha,7.0
+38,C101,2,P39,sweets,ice cream,3.0
+39,C101,2,P40,sweets,irn bru,4.0
+40,C102,1,P13,clothes,men's dark green trousers,3.0
+41,C102,1,P14,clothes,women's shoes,8.0
+42,C102,1,P15,clothes,jumper,2.0
+43,C102,1,P16,clothes,men's belt,6.0
+44,C102,1,P17,clothes,women's black socks,2.0
+45,C102,1,P18,clothes,men's striped socks,4.0
+46,C102,1,P19,clothes,men's trainers,1.0
+47,C102,1,P20,clothes,women's blouse,2.0
+48,C102,1,P21,clothes,women's red dress,3.0
+49,C102,1,P23,fruit_veg,cherries,2.0
+50,C102,1,P24,fruit_veg,scotch bonnets,1.0
+51,C102,1,P25,fruit_veg,peppers,2.0
+52,C102,1,P26,fruit_veg,broccoli,5.0
+53,C102,1,P27,fruit_veg,potatoes,1.0
+54,C102,1,P28,fruit_veg,grapes,1.0
+55,C102,1,P29,fruit_veg,easy peeler,3.0
+56,C102,1,P30,fruit_veg,mango,5.0
+57,C102,1,P31,fruit_veg,lemon grass,2.0
+58,C102,1,P32,fruit_veg,onions,3.0
+59,C102,1,P34,fruit_veg,raspberries,1.0
+60,C103,7,P03,house,bin liners,1.0
+61,C103,7,P07,house,cling film,1.0
+62,C103,7,P09,house,toilet paper,1.0
+63,C103,7,P10,house,kitchen knife,2.0
+64,C103,7,P12,house,ice pack,1.0
+65,C103,7,P41,food,steak,1.0
+66,C103,7,P43,food,mince beef,1.0
+67,C103,7,P44,food,milk,3.0
+68,C103,7,P45,food,hummus,1.0
+69,C103,7,P46,food,activated charcoal croissant,1.0
+70,C103,7,P47,food,whole chicken,1.0
+71,C103,7,P48,food,tuna,1.0
+72,C103,7,P50,food,camembert,1.0
+73,C103,7,P52,food,oats,1.0
+74,C103,7,P56,food,greek yoghurt,1.0
+75,C103,7,P58,food,coconut water,1.0
+76,C103,7,P59,food,chicken stock,1.0
+77,C103,7,P60,food,water,1.0
+78,C103,7,P62,bws,gin,9.0
+79,C103,7,P63,bws,cognac,4.0
+80,C103,7,P64,bws,cigarettes,4.0
+81,C104,7,P23,fruit_veg,cherries,1.0
+82,C104,7,P24,fruit_veg,scotch bonnets,1.0
+83,C104,7,P25,fruit_veg,peppers,1.0
+84,C104,7,P26,fruit_veg,broccoli,2.0
+85,C104,7,P28,fruit_veg,grapes,3.0
+86,C104,7,P31,fruit_veg,lemon grass,1.0
+87,C104,7,P32,fruit_veg,onions,1.0
+88,C104,7,P33,fruit_veg,apples,2.0
+89,C104,7,P36,sweets,salted caramel dark chocolate,1.0
+90,C104,7,P37,sweets,gummy bears,2.0
+91,C104,7,P39,sweets,ice cream,1.0
+92,C104,7,P44,food,milk,1.0
+93,C104,7,P45,food,hummus,2.0
+94,C104,7,P47,food,whole chicken,1.0
+95,C104,7,P54,food,almond milk,1.0
+96,C104,7,P57,food,parmesan,1.0
+97,C105,8,P01,house,detergent,1.0
+98,C105,8,P02,house,kitchen roll,1.0
+99,C105,8,P04,house,shower gel,1.0
+100,C105,8,P06,house,fabric softener,1.0
+101,C105,8,P07,house,cling film,1.0
+102,C105,8,P09,house,toilet paper,1.0
+103,C105,8,P12,house,ice pack,2.0
+104,C105,8,P41,food,steak,1.0
+105,C105,8,P43,food,mince beef,1.0
+106,C105,8,P44,food,milk,2.0
+107,C105,8,P49,food,smoked salmon,2.0
+108,C105,8,P50,food,camembert,2.0
+109,C105,8,P51,food,pizza,2.0
+110,C105,8,P52,food,oats,1.0
+111,C105,8,P53,food,peanut butter,2.0
+112,C105,8,P54,food,almond milk,2.0
+113,C105,8,P55,food,lentil soup,2.0
+114,C105,8,P56,food,greek yoghurt,1.0
+115,C105,8,P57,food,parmesan,1.0
+116,C105,8,P61,bws,red wine,1.0
+117,C105,8,P63,bws,cognac,12.0
+118,C105,8,P64,bws,cigarettes,3.0
+119,C106,5,P13,clothes,men's dark green trousers,1.0
+120,C106,5,P15,clothes,jumper,1.0
+121,C106,5,P16,clothes,men's belt,1.0
+122,C106,5,P35,sweets,carrot cake,5.0
+123,C106,5,P36,sweets,salted caramel dark chocolate,5.0
+124,C106,5,P37,sweets,gummy bears,1.0
+125,C106,5,P38,sweets,kombucha,2.0
+126,C106,5,P39,sweets,ice cream,3.0
+127,C106,5,P40,sweets,irn bru,9.0
+128,C106,5,P41,food,steak,2.0
+129,C106,5,P43,food,mince beef,3.0
+130,C106,5,P45,food,hummus,2.0
+131,C106,5,P46,food,activated charcoal croissant,2.0
+132,C106,5,P47,food,whole chicken,3.0
+133,C106,5,P48,food,tuna,1.0
+134,C106,5,P50,food,camembert,1.0
+135,C106,5,P51,food,pizza,2.0
+136,C106,5,P52,food,oats,1.0
+137,C106,5,P54,food,almond milk,1.0
+138,C106,5,P55,food,lentil soup,1.0
+139,C106,5,P56,food,greek yoghurt,1.0
+140,C106,5,P57,food,parmesan,1.0
+141,C106,5,P59,food,chicken stock,3.0
+142,C106,5,P60,food,water,1.0
+143,C107,3,P05,house,scented candles,1.0
+144,C107,3,P06,house,fabric softener,1.0
+145,C107,3,P10,house,kitchen knife,1.0
+146,C107,3,P41,food,steak,2.0
+147,C107,3,P42,food,chicken,1.0
+148,C107,3,P43,food,mince beef,1.0
+149,C107,3,P44,food,milk,1.0
+150,C107,3,P45,food,hummus,1.0
+151,C107,3,P48,food,tuna,3.0
+152,C107,3,P50,food,camembert,1.0
+153,C107,3,P53,food,peanut butter,1.0
+154,C107,3,P55,food,lentil soup,1.0
+155,C107,3,P59,food,chicken stock,1.0
+156,C108,8,P01,house,detergent,2.0
+157,C108,8,P03,house,bin liners,2.0
+158,C108,8,P04,house,shower gel,3.0
+159,C108,8,P06,house,fabric softener,3.0
+160,C108,8,P07,house,cling film,3.0
+161,C108,8,P10,house,kitchen knife,2.0
+162,C108,8,P11,house,dishwasher tablets,4.0
+163,C108,8,P41,food,steak,2.0
+164,C108,8,P42,food,chicken,1.0
+165,C108,8,P43,food,mince beef,3.0
+166,C108,8,P44,food,milk,1.0
+167,C108,8,P45,food,hummus,1.0
+168,C108,8,P46,food,activated charcoal croissant,3.0
+169,C108,8,P47,food,whole chicken,1.0
+170,C108,8,P50,food,camembert,2.0
+171,C108,8,P52,food,oats,1.0
+172,C108,8,P53,food,peanut butter,3.0
+173,C108,8,P54,food,almond milk,1.0
+174,C108,8,P55,food,lentil soup,1.0
+175,C108,8,P57,food,parmesan,2.0
+176,C108,8,P58,food,coconut water,1.0
+177,C108,8,P59,food,chicken stock,2.0
+178,C109,6,P41,food,steak,5.0
+179,C109,6,P44,food,milk,3.0
+180,C109,6,P45,food,hummus,2.0
+181,C109,6,P46,food,activated charcoal croissant,1.0
+182,C109,6,P48,food,tuna,1.0
+183,C109,6,P49,food,smoked salmon,1.0
+184,C109,6,P50,food,camembert,1.0
+185,C109,6,P51,food,pizza,2.0
+186,C109,6,P52,food,oats,1.0
+187,C109,6,P56,food,greek yoghurt,1.0
+188,C109,6,P57,food,parmesan,1.0
+189,C109,6,P59,food,chicken stock,1.0
+190,C109,6,P60,food,water,1.0
+191,C109,6,P61,bws,red wine,3.0
+192,C109,6,P62,bws,gin,4.0
+193,C109,6,P63,bws,cognac,2.0
+194,C109,6,P64,bws,cigarettes,6.0
+195,C11,4,P41,food,steak,5.0
+196,C11,4,P42,food,chicken,1.0
+197,C11,4,P43,food,mince beef,2.0
+198,C11,4,P44,food,milk,3.0
+199,C11,4,P45,food,hummus,2.0
+200,C11,4,P46,food,activated charcoal croissant,5.0
+201,C11,4,P47,food,whole chicken,2.0
+202,C11,4,P48,food,tuna,4.0
+203,C11,4,P49,food,smoked salmon,4.0
+204,C11,4,P50,food,camembert,3.0
+205,C11,4,P51,food,pizza,1.0
+206,C11,4,P52,food,oats,2.0
+207,C11,4,P54,food,almond milk,2.0
+208,C11,4,P55,food,lentil soup,1.0
+209,C11,4,P56,food,greek yoghurt,1.0
+210,C11,4,P57,food,parmesan,1.0
+211,C11,4,P58,food,coconut water,3.0
+212,C11,4,P59,food,chicken stock,5.0
+213,C110,3,P01,house,detergent,3.0
+214,C110,3,P02,house,kitchen roll,1.0
+215,C110,3,P03,house,bin liners,1.0
+216,C110,3,P04,house,shower gel,1.0
+217,C110,3,P05,house,scented candles,3.0
+218,C110,3,P06,house,fabric softener,2.0
+219,C110,3,P07,house,cling film,1.0
+220,C110,3,P10,house,kitchen knife,1.0
+221,C110,3,P12,house,ice pack,2.0
+222,C110,3,P24,fruit_veg,scotch bonnets,1.0
+223,C110,3,P28,fruit_veg,grapes,1.0
+224,C110,3,P30,fruit_veg,mango,1.0
+225,C110,3,P32,fruit_veg,onions,1.0
+226,C111,1,P06,house,fabric softener,2.0
+227,C111,1,P10,house,kitchen knife,1.0
+228,C111,1,P11,house,dishwasher tablets,1.0
+229,C111,1,P22,fruit_veg,avocado,1.0
+230,C111,1,P26,fruit_veg,broccoli,1.0
+231,C111,1,P27,fruit_veg,potatoes,1.0
+232,C111,1,P35,sweets,carrot cake,1.0
+233,C111,1,P36,sweets,salted caramel dark chocolate,1.0
+234,C111,1,P37,sweets,gummy bears,2.0
+235,C111,1,P48,food,tuna,1.0
+236,C111,1,P49,food,smoked salmon,1.0
+237,C111,1,P58,food,coconut water,1.0
+238,C112,3,P22,fruit_veg,avocado,2.0
+239,C112,3,P23,fruit_veg,cherries,2.0
+240,C112,3,P24,fruit_veg,scotch bonnets,1.0
+241,C112,3,P26,fruit_veg,broccoli,1.0
+242,C112,3,P27,fruit_veg,potatoes,1.0
+243,C112,3,P28,fruit_veg,grapes,3.0
+244,C112,3,P29,fruit_veg,easy peeler,1.0
+245,C112,3,P30,fruit_veg,mango,2.0
+246,C112,3,P32,fruit_veg,onions,1.0
+247,C112,3,P33,fruit_veg,apples,1.0
+248,C112,3,P62,bws,gin,1.0
+249,C113,5,P01,house,detergent,1.0
+250,C113,5,P02,house,kitchen roll,1.0
+251,C113,5,P03,house,bin liners,1.0
+252,C113,5,P04,house,shower gel,1.0
+253,C113,5,P05,house,scented candles,1.0
+254,C113,5,P06,house,fabric softener,2.0
+255,C113,5,P07,house,cling film,1.0
+256,C113,5,P08,house,aluminium foil,1.0
+257,C113,5,P10,house,kitchen knife,2.0
+258,C113,5,P11,house,dishwasher tablets,1.0
+259,C113,5,P25,fruit_veg,peppers,1.0
+260,C113,5,P31,fruit_veg,lemon grass,1.0
+261,C113,5,P32,fruit_veg,onions,1.0
+262,C113,5,P44,food,milk,1.0
+263,C113,5,P51,food,pizza,1.0
+264,C113,5,P60,food,water,1.0
+265,C114,3,P13,clothes,men's dark green trousers,10.0
+266,C114,3,P14,clothes,women's shoes,6.0
+267,C114,3,P15,clothes,jumper,9.0
+268,C114,3,P16,clothes,men's belt,9.0
+269,C114,3,P17,clothes,women's black socks,6.0
+270,C114,3,P18,clothes,men's striped socks,7.0
+271,C114,3,P19,clothes,men's trainers,5.0
+272,C114,3,P20,clothes,women's blouse,2.0
+273,C114,3,P21,clothes,women's red dress,10.0
+274,C115,1,P04,house,shower gel,2.0
+275,C115,1,P05,house,scented candles,1.0
+276,C115,1,P09,house,toilet paper,1.0
+277,C115,1,P11,house,dishwasher tablets,1.0
+278,C115,1,P22,fruit_veg,avocado,1.0
+279,C115,1,P25,fruit_veg,peppers,1.0
+280,C115,1,P26,fruit_veg,broccoli,1.0
+281,C115,1,P27,fruit_veg,potatoes,1.0
+282,C115,1,P28,fruit_veg,grapes,2.0
+283,C115,1,P29,fruit_veg,easy peeler,1.0
+284,C115,1,P30,fruit_veg,mango,1.0
+285,C115,1,P31,fruit_veg,lemon grass,1.0
+286,C115,1,P32,fruit_veg,onions,2.0
+287,C115,1,P33,fruit_veg,apples,2.0
+288,C115,1,P61,bws,red wine,3.0
+289,C115,1,P62,bws,gin,3.0
+290,C115,1,P63,bws,cognac,6.0
+291,C115,1,P64,bws,cigarettes,2.0
+292,C116,5,P01,house,detergent,1.0
+293,C116,5,P02,house,kitchen roll,5.0
+294,C116,5,P03,house,bin liners,1.0
+295,C116,5,P05,house,scented candles,3.0
+296,C116,5,P06,house,fabric softener,1.0
+297,C116,5,P07,house,cling film,1.0
+298,C116,5,P10,house,kitchen knife,2.0
+299,C116,5,P35,sweets,carrot cake,5.0
+300,C116,5,P36,sweets,salted caramel dark chocolate,4.0
+301,C116,5,P37,sweets,gummy bears,7.0
+302,C116,5,P38,sweets,kombucha,4.0
+303,C116,5,P39,sweets,ice cream,7.0
+304,C116,5,P40,sweets,irn bru,3.0
+305,C116,5,P41,food,steak,1.0
+306,C116,5,P42,food,chicken,1.0
+307,C116,5,P44,food,milk,1.0
+308,C116,5,P46,food,activated charcoal croissant,1.0
+309,C116,5,P49,food,smoked salmon,4.0
+310,C116,5,P50,food,camembert,1.0
+311,C116,5,P51,food,pizza,1.0
+312,C116,5,P52,food,oats,2.0
+313,C116,5,P53,food,peanut butter,1.0
+314,C116,5,P54,food,almond milk,2.0
+315,C116,5,P56,food,greek yoghurt,1.0
+316,C116,5,P59,food,chicken stock,1.0
+317,C117,10,P05,house,scented candles,1.0
+318,C117,10,P07,house,cling film,1.0
+319,C117,10,P11,house,dishwasher tablets,1.0
+320,C117,10,P35,sweets,carrot cake,2.0
+321,C117,10,P38,sweets,kombucha,1.0
+322,C117,10,P39,sweets,ice cream,3.0
+323,C117,10,P44,food,milk,2.0
+324,C117,10,P45,food,hummus,1.0
+325,C117,10,P47,food,whole chicken,1.0
+326,C117,10,P48,food,tuna,1.0
+327,C117,10,P50,food,camembert,1.0
+328,C117,10,P61,bws,red wine,2.0
+329,C117,10,P63,bws,cognac,3.0
+330,C117,10,P64,bws,cigarettes,4.0
+331,C118,7,P26,fruit_veg,broccoli,2.0
+332,C118,7,P28,fruit_veg,grapes,1.0
+333,C118,7,P30,fruit_veg,mango,1.0
+334,C118,7,P31,fruit_veg,lemon grass,1.0
+335,C118,7,P32,fruit_veg,onions,1.0
+336,C118,7,P36,sweets,salted caramel dark chocolate,2.0
+337,C118,7,P38,sweets,kombucha,2.0
+338,C118,7,P39,sweets,ice cream,2.0
+339,C118,7,P40,sweets,irn bru,1.0
+340,C118,7,P42,food,chicken,1.0
+341,C118,7,P54,food,almond milk,1.0
+342,C118,7,P61,bws,red wine,3.0
+343,C118,7,P62,bws,gin,1.0
+344,C118,7,P63,bws,cognac,4.0
+345,C119,7,P02,house,kitchen roll,3.0
+346,C119,7,P03,house,bin liners,1.0
+347,C119,7,P07,house,cling film,1.0
+348,C119,7,P09,house,toilet paper,1.0
+349,C119,7,P11,house,dishwasher tablets,1.0
+350,C119,7,P12,house,ice pack,1.0
+351,C119,7,P22,fruit_veg,avocado,4.0
+352,C119,7,P24,fruit_veg,scotch bonnets,1.0
+353,C119,7,P25,fruit_veg,peppers,2.0
+354,C119,7,P28,fruit_veg,grapes,1.0
+355,C119,7,P31,fruit_veg,lemon grass,2.0
+356,C119,7,P33,fruit_veg,apples,1.0
+357,C119,7,P34,fruit_veg,raspberries,2.0
+358,C119,7,P35,sweets,carrot cake,1.0
+359,C119,7,P36,sweets,salted caramel dark chocolate,1.0
+360,C119,7,P37,sweets,gummy bears,2.0
+361,C119,7,P38,sweets,kombucha,4.0
+362,C119,7,P39,sweets,ice cream,2.0
+363,C119,7,P41,food,steak,1.0
+364,C119,7,P42,food,chicken,1.0
+365,C119,7,P49,food,smoked salmon,1.0
+366,C119,7,P55,food,lentil soup,1.0
+367,C119,7,P56,food,greek yoghurt,1.0
+368,C119,7,P57,food,parmesan,1.0
+369,C12,8,P01,house,detergent,4.0
+370,C12,8,P02,house,kitchen roll,1.0
+371,C12,8,P04,house,shower gel,1.0
+372,C12,8,P05,house,scented candles,2.0
+373,C12,8,P08,house,aluminium foil,1.0
+374,C12,8,P10,house,kitchen knife,1.0
+375,C12,8,P11,house,dishwasher tablets,2.0
+376,C12,8,P12,house,ice pack,2.0
+377,C120,9,P13,clothes,men's dark green trousers,1.0
+378,C120,9,P15,clothes,jumper,1.0
+379,C120,9,P16,clothes,men's belt,1.0
+380,C120,9,P35,sweets,carrot cake,2.0
+381,C120,9,P36,sweets,salted caramel dark chocolate,4.0
+382,C120,9,P37,sweets,gummy bears,2.0
+383,C120,9,P38,sweets,kombucha,2.0
+384,C120,9,P39,sweets,ice cream,3.0
+385,C120,9,P40,sweets,irn bru,2.0
+386,C120,9,P41,food,steak,2.0
+387,C120,9,P42,food,chicken,1.0
+388,C120,9,P46,food,activated charcoal croissant,1.0
+389,C120,9,P48,food,tuna,1.0
+390,C120,9,P50,food,camembert,3.0
+391,C120,9,P51,food,pizza,1.0
+392,C120,9,P53,food,peanut butter,1.0
+393,C120,9,P54,food,almond milk,3.0
+394,C120,9,P55,food,lentil soup,1.0
+395,C120,9,P59,food,chicken stock,1.0
+396,C120,9,P61,bws,red wine,2.0
+397,C120,9,P62,bws,gin,2.0
+398,C120,9,P63,bws,cognac,1.0
+399,C120,9,P64,bws,cigarettes,1.0
+400,C121,10,P01,house,detergent,1.0
+401,C121,10,P02,house,kitchen roll,2.0
+402,C121,10,P06,house,fabric softener,1.0
+403,C121,10,P09,house,toilet paper,2.0
+404,C121,10,P12,house,ice pack,1.0
+405,C121,10,P22,fruit_veg,avocado,1.0
+406,C121,10,P23,fruit_veg,cherries,3.0
+407,C121,10,P24,fruit_veg,scotch bonnets,3.0
+408,C121,10,P27,fruit_veg,potatoes,1.0
+409,C121,10,P28,fruit_veg,grapes,1.0
+410,C121,10,P29,fruit_veg,easy peeler,2.0
+411,C121,10,P30,fruit_veg,mango,2.0
+412,C121,10,P34,fruit_veg,raspberries,2.0
+413,C122,10,P01,house,detergent,2.0
+414,C122,10,P02,house,kitchen roll,2.0
+415,C122,10,P03,house,bin liners,5.0
+416,C122,10,P05,house,scented candles,2.0
+417,C122,10,P06,house,fabric softener,1.0
+418,C122,10,P07,house,cling film,1.0
+419,C122,10,P08,house,aluminium foil,1.0
+420,C122,10,P09,house,toilet paper,4.0
+421,C122,10,P10,house,kitchen knife,1.0
+422,C122,10,P11,house,dishwasher tablets,1.0
+423,C122,10,P12,house,ice pack,2.0
+424,C122,10,P22,fruit_veg,avocado,3.0
+425,C122,10,P23,fruit_veg,cherries,3.0
+426,C122,10,P24,fruit_veg,scotch bonnets,4.0
+427,C122,10,P25,fruit_veg,peppers,3.0
+428,C122,10,P26,fruit_veg,broccoli,6.0
+429,C122,10,P27,fruit_veg,potatoes,3.0
+430,C122,10,P28,fruit_veg,grapes,4.0
+431,C122,10,P29,fruit_veg,easy peeler,2.0
+432,C122,10,P30,fruit_veg,mango,4.0
+433,C122,10,P31,fruit_veg,lemon grass,1.0
+434,C122,10,P32,fruit_veg,onions,2.0
+435,C122,10,P33,fruit_veg,apples,3.0
+436,C122,10,P34,fruit_veg,raspberries,1.0
+437,C123,3,P01,house,detergent,3.0
+438,C123,3,P03,house,bin liners,2.0
+439,C123,3,P04,house,shower gel,1.0
+440,C123,3,P07,house,cling film,1.0
+441,C123,3,P10,house,kitchen knife,2.0
+442,C123,3,P11,house,dishwasher tablets,3.0
+443,C123,3,P12,house,ice pack,1.0
+444,C124,7,P37,sweets,gummy bears,1.0
+445,C124,7,P39,sweets,ice cream,1.0
+446,C124,7,P40,sweets,irn bru,2.0
+447,C124,7,P44,food,milk,1.0
+448,C124,7,P45,food,hummus,3.0
+449,C124,7,P52,food,oats,2.0
+450,C124,7,P54,food,almond milk,1.0
+451,C124,7,P55,food,lentil soup,1.0
+452,C124,7,P57,food,parmesan,1.0
+453,C124,7,P60,food,water,1.0
+454,C124,7,P61,bws,red wine,3.0
+455,C124,7,P62,bws,gin,2.0
+456,C125,1,P13,clothes,men's dark green trousers,2.0
+457,C125,1,P15,clothes,jumper,2.0
+458,C125,1,P16,clothes,men's belt,1.0
+459,C125,1,P17,clothes,women's black socks,1.0
+460,C125,1,P18,clothes,men's striped socks,1.0
+461,C125,1,P19,clothes,men's trainers,1.0
+462,C125,1,P42,food,chicken,1.0
+463,C125,1,P43,food,mince beef,2.0
+464,C125,1,P46,food,activated charcoal croissant,3.0
+465,C125,1,P47,food,whole chicken,1.0
+466,C125,1,P48,food,tuna,1.0
+467,C125,1,P51,food,pizza,3.0
+468,C125,1,P52,food,oats,2.0
+469,C125,1,P59,food,chicken stock,2.0
+470,C126,4,P23,fruit_veg,cherries,1.0
+471,C126,4,P30,fruit_veg,mango,2.0
+472,C126,4,P44,food,milk,1.0
+473,C126,4,P56,food,greek yoghurt,1.0
+474,C126,4,P61,bws,red wine,3.0
+475,C126,4,P63,bws,cognac,4.0
+476,C126,4,P64,bws,cigarettes,3.0
+477,C127,4,P01,house,detergent,1.0
+478,C127,4,P02,house,kitchen roll,1.0
+479,C127,4,P03,house,bin liners,2.0
+480,C127,4,P04,house,shower gel,2.0
+481,C127,4,P06,house,fabric softener,2.0
+482,C127,4,P07,house,cling film,3.0
+483,C127,4,P08,house,aluminium foil,4.0
+484,C127,4,P09,house,toilet paper,3.0
+485,C127,4,P10,house,kitchen knife,3.0
+486,C127,4,P11,house,dishwasher tablets,2.0
+487,C127,4,P23,fruit_veg,cherries,3.0
+488,C127,4,P25,fruit_veg,peppers,1.0
+489,C127,4,P26,fruit_veg,broccoli,1.0
+490,C127,4,P27,fruit_veg,potatoes,2.0
+491,C127,4,P28,fruit_veg,grapes,2.0
+492,C127,4,P30,fruit_veg,mango,1.0
+493,C127,4,P31,fruit_veg,lemon grass,2.0
+494,C127,4,P32,fruit_veg,onions,1.0
+495,C127,4,P33,fruit_veg,apples,2.0
+496,C127,4,P34,fruit_veg,raspberries,1.0
+497,C127,4,P42,food,chicken,1.0
+498,C127,4,P43,food,mince beef,1.0
+499,C127,4,P45,food,hummus,1.0
+500,C127,4,P46,food,activated charcoal croissant,2.0
+501,C127,4,P48,food,tuna,1.0
+502,C127,4,P49,food,smoked salmon,1.0
+503,C127,4,P52,food,oats,1.0
+504,C127,4,P54,food,almond milk,2.0
+505,C127,4,P55,food,lentil soup,3.0
+506,C127,4,P57,food,parmesan,1.0
+507,C127,4,P58,food,coconut water,1.0
+508,C128,5,P01,house,detergent,1.0
+509,C128,5,P03,house,bin liners,2.0
+510,C128,5,P05,house,scented candles,1.0
+511,C128,5,P06,house,fabric softener,1.0
+512,C128,5,P07,house,cling film,1.0
+513,C128,5,P08,house,aluminium foil,2.0
+514,C128,5,P10,house,kitchen knife,3.0
+515,C128,5,P12,house,ice pack,1.0
+516,C128,5,P14,clothes,women's shoes,1.0
+517,C128,5,P16,clothes,men's belt,2.0
+518,C128,5,P17,clothes,women's black socks,1.0
+519,C128,5,P20,clothes,women's blouse,2.0
+520,C128,5,P23,fruit_veg,cherries,3.0
+521,C128,5,P24,fruit_veg,scotch bonnets,1.0
+522,C128,5,P25,fruit_veg,peppers,2.0
+523,C128,5,P28,fruit_veg,grapes,1.0
+524,C128,5,P29,fruit_veg,easy peeler,1.0
+525,C128,5,P32,fruit_veg,onions,4.0
+526,C128,5,P33,fruit_veg,apples,3.0
+527,C128,5,P34,fruit_veg,raspberries,1.0
+528,C128,5,P41,food,steak,1.0
+529,C128,5,P46,food,activated charcoal croissant,1.0
+530,C128,5,P48,food,tuna,2.0
+531,C128,5,P51,food,pizza,1.0
+532,C128,5,P53,food,peanut butter,1.0
+533,C128,5,P55,food,lentil soup,2.0
+534,C128,5,P56,food,greek yoghurt,1.0
+535,C128,5,P59,food,chicken stock,2.0
+536,C128,5,P60,food,water,1.0
+537,C128,5,P61,bws,red wine,3.0
+538,C128,5,P62,bws,gin,1.0
+539,C128,5,P63,bws,cognac,3.0
+540,C128,5,P64,bws,cigarettes,4.0
+541,C129,7,P01,house,detergent,2.0
+542,C129,7,P02,house,kitchen roll,3.0
+543,C129,7,P03,house,bin liners,1.0
+544,C129,7,P04,house,shower gel,1.0
+545,C129,7,P05,house,scented candles,2.0
+546,C129,7,P06,house,fabric softener,1.0
+547,C129,7,P07,house,cling film,2.0
+548,C129,7,P09,house,toilet paper,6.0
+549,C129,7,P10,house,kitchen knife,2.0
+550,C129,7,P12,house,ice pack,2.0
+551,C129,7,P35,sweets,carrot cake,5.0
+552,C129,7,P36,sweets,salted caramel dark chocolate,4.0
+553,C129,7,P37,sweets,gummy bears,5.0
+554,C129,7,P38,sweets,kombucha,3.0
+555,C129,7,P39,sweets,ice cream,1.0
+556,C129,7,P40,sweets,irn bru,4.0
+557,C129,7,P41,food,steak,1.0
+558,C129,7,P42,food,chicken,1.0
+559,C129,7,P45,food,hummus,1.0
+560,C129,7,P46,food,activated charcoal croissant,2.0
+561,C129,7,P49,food,smoked salmon,2.0
+562,C129,7,P50,food,camembert,1.0
+563,C129,7,P54,food,almond milk,2.0
+564,C129,7,P55,food,lentil soup,2.0
+565,C129,7,P56,food,greek yoghurt,1.0
+566,C129,7,P57,food,parmesan,1.0
+567,C129,7,P59,food,chicken stock,1.0
+568,C129,7,P60,food,water,1.0
+569,C13,8,P02,house,kitchen roll,1.0
+570,C13,8,P03,house,bin liners,2.0
+571,C13,8,P04,house,shower gel,1.0
+572,C13,8,P07,house,cling film,3.0
+573,C13,8,P08,house,aluminium foil,1.0
+574,C13,8,P11,house,dishwasher tablets,1.0
+575,C13,8,P15,clothes,jumper,1.0
+576,C13,8,P16,clothes,men's belt,2.0
+577,C13,8,P17,clothes,women's black socks,1.0
+578,C13,8,P18,clothes,men's striped socks,1.0
+579,C13,8,P19,clothes,men's trainers,3.0
+580,C13,8,P21,clothes,women's red dress,5.0
+581,C13,8,P22,fruit_veg,avocado,1.0
+582,C13,8,P23,fruit_veg,cherries,4.0
+583,C13,8,P24,fruit_veg,scotch bonnets,3.0
+584,C13,8,P25,fruit_veg,peppers,2.0
+585,C13,8,P26,fruit_veg,broccoli,1.0
+586,C13,8,P27,fruit_veg,potatoes,1.0
+587,C13,8,P28,fruit_veg,grapes,4.0
+588,C13,8,P29,fruit_veg,easy peeler,1.0
+589,C13,8,P30,fruit_veg,mango,1.0
+590,C13,8,P32,fruit_veg,onions,2.0
+591,C13,8,P34,fruit_veg,raspberries,2.0
+592,C13,8,P36,sweets,salted caramel dark chocolate,1.0
+593,C13,8,P37,sweets,gummy bears,1.0
+594,C13,8,P39,sweets,ice cream,1.0
+595,C13,8,P40,sweets,irn bru,2.0
+596,C130,7,P13,clothes,men's dark green trousers,1.0
+597,C130,7,P15,clothes,jumper,4.0
+598,C130,7,P16,clothes,men's belt,1.0
+599,C130,7,P17,clothes,women's black socks,2.0
+600,C130,7,P18,clothes,men's striped socks,1.0
+601,C130,7,P19,clothes,men's trainers,1.0
+602,C130,7,P20,clothes,women's blouse,1.0
+603,C130,7,P23,fruit_veg,cherries,1.0
+604,C130,7,P25,fruit_veg,peppers,1.0
+605,C130,7,P26,fruit_veg,broccoli,2.0
+606,C130,7,P27,fruit_veg,potatoes,2.0
+607,C130,7,P28,fruit_veg,grapes,1.0
+608,C130,7,P30,fruit_veg,mango,4.0
+609,C130,7,P32,fruit_veg,onions,1.0
+610,C130,7,P35,sweets,carrot cake,3.0
+611,C130,7,P36,sweets,salted caramel dark chocolate,4.0
+612,C130,7,P37,sweets,gummy bears,1.0
+613,C130,7,P38,sweets,kombucha,1.0
+614,C130,7,P40,sweets,irn bru,5.0
+615,C130,7,P42,food,chicken,2.0
+616,C130,7,P46,food,activated charcoal croissant,1.0
+617,C130,7,P49,food,smoked salmon,1.0
+618,C130,7,P51,food,pizza,1.0
+619,C130,7,P53,food,peanut butter,2.0
+620,C130,7,P57,food,parmesan,1.0
+621,C131,4,P02,house,kitchen roll,1.0
+622,C131,4,P08,house,aluminium foil,1.0
+623,C131,4,P11,house,dishwasher tablets,1.0
+624,C131,4,P12,house,ice pack,1.0
+625,C131,4,P35,sweets,carrot cake,2.0
+626,C131,4,P37,sweets,gummy bears,2.0
+627,C131,4,P38,sweets,kombucha,2.0
+628,C131,4,P39,sweets,ice cream,5.0
+629,C131,4,P40,sweets,irn bru,3.0
+630,C131,4,P41,food,steak,1.0
+631,C131,4,P47,food,whole chicken,1.0
+632,C131,4,P48,food,tuna,1.0
+633,C131,4,P49,food,smoked salmon,1.0
+634,C131,4,P50,food,camembert,1.0
+635,C131,4,P52,food,oats,1.0
+636,C131,4,P53,food,peanut butter,1.0
+637,C131,4,P55,food,lentil soup,1.0
+638,C131,4,P56,food,greek yoghurt,1.0
+639,C131,4,P60,food,water,4.0
+640,C131,4,P63,bws,cognac,2.0
+641,C131,4,P64,bws,cigarettes,2.0
+642,C132,7,P02,house,kitchen roll,1.0
+643,C132,7,P03,house,bin liners,1.0
+644,C132,7,P04,house,shower gel,1.0
+645,C132,7,P05,house,scented candles,1.0
+646,C132,7,P07,house,cling film,1.0
+647,C132,7,P11,house,dishwasher tablets,1.0
+648,C132,7,P35,sweets,carrot cake,1.0
+649,C132,7,P36,sweets,salted caramel dark chocolate,3.0
+650,C132,7,P37,sweets,gummy bears,4.0
+651,C132,7,P38,sweets,kombucha,1.0
+652,C132,7,P39,sweets,ice cream,2.0
+653,C132,7,P40,sweets,irn bru,2.0
+654,C132,7,P41,food,steak,1.0
+655,C133,3,P41,food,steak,1.0
+656,C133,3,P42,food,chicken,1.0
+657,C133,3,P43,food,mince beef,1.0
+658,C133,3,P45,food,hummus,2.0
+659,C133,3,P46,food,activated charcoal croissant,2.0
+660,C133,3,P47,food,whole chicken,2.0
+661,C133,3,P48,food,tuna,1.0
+662,C133,3,P49,food,smoked salmon,2.0
+663,C133,3,P50,food,camembert,3.0
+664,C133,3,P51,food,pizza,2.0
+665,C133,3,P52,food,oats,2.0
+666,C133,3,P53,food,peanut butter,2.0
+667,C133,3,P54,food,almond milk,2.0
+668,C133,3,P55,food,lentil soup,4.0
+669,C133,3,P56,food,greek yoghurt,1.0
+670,C133,3,P59,food,chicken stock,2.0
+671,C133,3,P60,food,water,2.0
+672,C134,6,P13,clothes,men's dark green trousers,2.0
+673,C134,6,P15,clothes,jumper,3.0
+674,C134,6,P16,clothes,men's belt,5.0
+675,C134,6,P17,clothes,women's black socks,6.0
+676,C134,6,P18,clothes,men's striped socks,3.0
+677,C134,6,P19,clothes,men's trainers,1.0
+678,C134,6,P20,clothes,women's blouse,3.0
+679,C134,6,P21,clothes,women's red dress,4.0
+680,C134,6,P41,food,steak,1.0
+681,C134,6,P42,food,chicken,1.0
+682,C134,6,P43,food,mince beef,1.0
+683,C134,6,P47,food,whole chicken,3.0
+684,C134,6,P48,food,tuna,3.0
+685,C134,6,P49,food,smoked salmon,1.0
+686,C134,6,P50,food,camembert,1.0
+687,C134,6,P51,food,pizza,1.0
+688,C134,6,P52,food,oats,1.0
+689,C134,6,P54,food,almond milk,1.0
+690,C134,6,P56,food,greek yoghurt,1.0
+691,C134,6,P58,food,coconut water,1.0
+692,C134,6,P59,food,chicken stock,1.0
+693,C135,2,P22,fruit_veg,avocado,1.0
+694,C135,2,P23,fruit_veg,cherries,3.0
+695,C135,2,P24,fruit_veg,scotch bonnets,2.0
+696,C135,2,P25,fruit_veg,peppers,4.0
+697,C135,2,P26,fruit_veg,broccoli,2.0
+698,C135,2,P27,fruit_veg,potatoes,4.0
+699,C135,2,P28,fruit_veg,grapes,4.0
+700,C135,2,P29,fruit_veg,easy peeler,7.0
+701,C135,2,P30,fruit_veg,mango,1.0
+702,C135,2,P31,fruit_veg,lemon grass,3.0
+703,C135,2,P32,fruit_veg,onions,2.0
+704,C135,2,P33,fruit_veg,apples,2.0
+705,C135,2,P34,fruit_veg,raspberries,4.0
+706,C136,10,P02,house,kitchen roll,2.0
+707,C136,10,P03,house,bin liners,2.0
+708,C136,10,P06,house,fabric softener,1.0
+709,C136,10,P10,house,kitchen knife,1.0
+710,C136,10,P11,house,dishwasher tablets,2.0
+711,C136,10,P12,house,ice pack,2.0
+712,C136,10,P35,sweets,carrot cake,4.0
+713,C136,10,P36,sweets,salted caramel dark chocolate,5.0
+714,C136,10,P37,sweets,gummy bears,3.0
+715,C136,10,P38,sweets,kombucha,1.0
+716,C136,10,P39,sweets,ice cream,3.0
+717,C136,10,P40,sweets,irn bru,2.0
+718,C137,9,P22,fruit_veg,avocado,2.0
+719,C137,9,P23,fruit_veg,cherries,4.0
+720,C137,9,P25,fruit_veg,peppers,3.0
+721,C137,9,P27,fruit_veg,potatoes,1.0
+722,C137,9,P28,fruit_veg,grapes,1.0
+723,C137,9,P29,fruit_veg,easy peeler,2.0
+724,C137,9,P31,fruit_veg,lemon grass,2.0
+725,C137,9,P33,fruit_veg,apples,1.0
+726,C137,9,P34,fruit_veg,raspberries,1.0
+727,C137,9,P36,sweets,salted caramel dark chocolate,1.0
+728,C137,9,P38,sweets,kombucha,1.0
+729,C137,9,P39,sweets,ice cream,3.0
+730,C137,9,P40,sweets,irn bru,2.0
+731,C137,9,P43,food,mince beef,1.0
+732,C137,9,P44,food,milk,1.0
+733,C137,9,P46,food,activated charcoal croissant,1.0
+734,C137,9,P47,food,whole chicken,1.0
+735,C137,9,P48,food,tuna,1.0
+736,C137,9,P50,food,camembert,1.0
+737,C137,9,P52,food,oats,2.0
+738,C137,9,P53,food,peanut butter,3.0
+739,C137,9,P54,food,almond milk,2.0
+740,C137,9,P55,food,lentil soup,2.0
+741,C137,9,P56,food,greek yoghurt,1.0
+742,C137,9,P58,food,coconut water,2.0
+743,C137,9,P59,food,chicken stock,1.0
+744,C137,9,P60,food,water,2.0
+745,C14,3,P41,food,steak,4.0
+746,C14,3,P42,food,chicken,2.0
+747,C14,3,P43,food,mince beef,3.0
+748,C14,3,P45,food,hummus,2.0
+749,C14,3,P46,food,activated charcoal croissant,2.0
+750,C14,3,P47,food,whole chicken,1.0
+751,C14,3,P48,food,tuna,2.0
+752,C14,3,P50,food,camembert,3.0
+753,C14,3,P51,food,pizza,3.0
+754,C14,3,P52,food,oats,4.0
+755,C14,3,P54,food,almond milk,2.0
+756,C14,3,P55,food,lentil soup,1.0
+757,C14,3,P56,food,greek yoghurt,1.0
+758,C14,3,P57,food,parmesan,2.0
+759,C14,3,P58,food,coconut water,2.0
+760,C15,6,P01,house,detergent,2.0
+761,C15,6,P02,house,kitchen roll,1.0
+762,C15,6,P03,house,bin liners,1.0
+763,C15,6,P08,house,aluminium foil,1.0
+764,C15,6,P09,house,toilet paper,1.0
+765,C15,6,P11,house,dishwasher tablets,2.0
+766,C15,6,P35,sweets,carrot cake,2.0
+767,C15,6,P36,sweets,salted caramel dark chocolate,2.0
+768,C15,6,P37,sweets,gummy bears,1.0
+769,C15,6,P38,sweets,kombucha,2.0
+770,C15,6,P40,sweets,irn bru,2.0
+771,C15,6,P43,food,mince beef,1.0
+772,C15,6,P44,food,milk,2.0
+773,C15,6,P46,food,activated charcoal croissant,1.0
+774,C15,6,P47,food,whole chicken,1.0
+775,C15,6,P50,food,camembert,1.0
+776,C15,6,P53,food,peanut butter,2.0
+777,C15,6,P55,food,lentil soup,2.0
+778,C15,6,P57,food,parmesan,2.0
+779,C15,6,P59,food,chicken stock,1.0
+780,C15,6,P60,food,water,1.0
+781,C16,5,P08,house,aluminium foil,1.0
+782,C16,5,P22,fruit_veg,avocado,2.0
+783,C16,5,P23,fruit_veg,cherries,2.0
+784,C16,5,P24,fruit_veg,scotch bonnets,1.0
+785,C16,5,P26,fruit_veg,broccoli,1.0
+786,C16,5,P34,fruit_veg,raspberries,2.0
+787,C16,5,P35,sweets,carrot cake,2.0
+788,C16,5,P36,sweets,salted caramel dark chocolate,1.0
+789,C16,5,P37,sweets,gummy bears,2.0
+790,C16,5,P38,sweets,kombucha,1.0
+791,C16,5,P39,sweets,ice cream,1.0
+792,C16,5,P40,sweets,irn bru,1.0
+793,C16,5,P62,bws,gin,5.0
+794,C16,5,P63,bws,cognac,1.0
+795,C16,5,P64,bws,cigarettes,3.0
+796,C17,2,P09,house,toilet paper,1.0
+797,C17,2,P26,fruit_veg,broccoli,1.0
+798,C17,2,P32,fruit_veg,onions,1.0
+799,C17,2,P34,fruit_veg,raspberries,1.0
+800,C17,2,P37,sweets,gummy bears,2.0
+801,C17,2,P40,sweets,irn bru,1.0
+802,C17,2,P61,bws,red wine,3.0
+803,C17,2,P63,bws,cognac,2.0
+804,C18,8,P41,food,steak,1.0
+805,C18,8,P43,food,mince beef,2.0
+806,C18,8,P44,food,milk,1.0
+807,C18,8,P46,food,activated charcoal croissant,1.0
+808,C18,8,P47,food,whole chicken,1.0
+809,C18,8,P48,food,tuna,2.0
+810,C18,8,P50,food,camembert,1.0
+811,C18,8,P54,food,almond milk,3.0
+812,C18,8,P57,food,parmesan,2.0
+813,C18,8,P58,food,coconut water,2.0
+814,C18,8,P61,bws,red wine,4.0
+815,C18,8,P62,bws,gin,3.0
+816,C18,8,P63,bws,cognac,4.0
+817,C18,8,P64,bws,cigarettes,1.0
+818,C19,6,P23,fruit_veg,cherries,3.0
+819,C19,6,P24,fruit_veg,scotch bonnets,4.0
+820,C19,6,P25,fruit_veg,peppers,1.0
+821,C19,6,P26,fruit_veg,broccoli,2.0
+822,C19,6,P27,fruit_veg,potatoes,3.0
+823,C19,6,P28,fruit_veg,grapes,1.0
+824,C19,6,P29,fruit_veg,easy peeler,4.0
+825,C19,6,P30,fruit_veg,mango,3.0
+826,C19,6,P32,fruit_veg,onions,1.0
+827,C19,6,P33,fruit_veg,apples,1.0
+828,C19,6,P34,fruit_veg,raspberries,2.0
+829,C19,6,P35,sweets,carrot cake,3.0
+830,C19,6,P36,sweets,salted caramel dark chocolate,6.0
+831,C19,6,P37,sweets,gummy bears,3.0
+832,C19,6,P38,sweets,kombucha,4.0
+833,C19,6,P39,sweets,ice cream,5.0
+834,C2,4,P22,fruit_veg,avocado,2.0
+835,C2,4,P23,fruit_veg,cherries,2.0
+836,C2,4,P24,fruit_veg,scotch bonnets,2.0
+837,C2,4,P25,fruit_veg,peppers,1.0
+838,C2,4,P26,fruit_veg,broccoli,3.0
+839,C2,4,P27,fruit_veg,potatoes,2.0
+840,C2,4,P28,fruit_veg,grapes,3.0
+841,C2,4,P29,fruit_veg,easy peeler,1.0
+842,C2,4,P31,fruit_veg,lemon grass,2.0
+843,C2,4,P32,fruit_veg,onions,3.0
+844,C2,4,P33,fruit_veg,apples,3.0
+845,C2,4,P34,fruit_veg,raspberries,2.0
+846,C2,4,P41,food,steak,1.0
+847,C2,4,P42,food,chicken,1.0
+848,C2,4,P43,food,mince beef,3.0
+849,C2,4,P44,food,milk,3.0
+850,C2,4,P46,food,activated charcoal croissant,4.0
+851,C2,4,P49,food,smoked salmon,3.0
+852,C2,4,P51,food,pizza,2.0
+853,C2,4,P52,food,oats,1.0
+854,C2,4,P53,food,peanut butter,1.0
+855,C2,4,P54,food,almond milk,1.0
+856,C2,4,P55,food,lentil soup,4.0
+857,C2,4,P56,food,greek yoghurt,2.0
+858,C2,4,P57,food,parmesan,1.0
+859,C2,4,P58,food,coconut water,1.0
+860,C20,2,P14,clothes,women's shoes,1.0
+861,C20,2,P17,clothes,women's black socks,2.0
+862,C20,2,P20,clothes,women's blouse,2.0
+863,C20,2,P21,clothes,women's red dress,1.0
+864,C20,2,P37,sweets,gummy bears,1.0
+865,C20,2,P39,sweets,ice cream,1.0
+866,C20,2,P40,sweets,irn bru,1.0
+867,C20,2,P41,food,steak,1.0
+868,C20,2,P48,food,tuna,1.0
+869,C20,2,P53,food,peanut butter,1.0
+870,C20,2,P56,food,greek yoghurt,1.0
+871,C20,2,P60,food,water,1.0
+872,C20,2,P63,bws,cognac,1.0
+873,C21,5,P25,fruit_veg,peppers,3.0
+874,C21,5,P26,fruit_veg,broccoli,1.0
+875,C21,5,P39,sweets,ice cream,1.0
+876,C21,5,P40,sweets,irn bru,1.0
+877,C21,5,P41,food,steak,1.0
+878,C21,5,P44,food,milk,1.0
+879,C21,5,P50,food,camembert,1.0
+880,C21,5,P52,food,oats,1.0
+881,C21,5,P53,food,peanut butter,2.0
+882,C21,5,P54,food,almond milk,2.0
+883,C21,5,P57,food,parmesan,1.0
+884,C21,5,P58,food,coconut water,1.0
+885,C21,5,P59,food,chicken stock,2.0
+886,C22,1,P06,house,fabric softener,1.0
+887,C22,1,P37,sweets,gummy bears,1.0
+888,C22,1,P50,food,camembert,1.0
+889,C22,1,P55,food,lentil soup,1.0
+890,C22,1,P56,food,greek yoghurt,1.0
+891,C22,1,P57,food,parmesan,2.0
+892,C22,1,P58,food,coconut water,1.0
+893,C22,1,P59,food,chicken stock,1.0
+894,C22,1,P60,food,water,2.0
+895,C23,10,P02,house,kitchen roll,1.0
+896,C23,10,P04,house,shower gel,1.0
+897,C23,10,P05,house,scented candles,1.0
+898,C23,10,P06,house,fabric softener,1.0
+899,C23,10,P09,house,toilet paper,2.0
+900,C23,10,P11,house,dishwasher tablets,1.0
+901,C23,10,P23,fruit_veg,cherries,1.0
+902,C23,10,P33,fruit_veg,apples,1.0
+903,C23,10,P35,sweets,carrot cake,1.0
+904,C23,10,P38,sweets,kombucha,1.0
+905,C23,10,P40,sweets,irn bru,1.0
+906,C23,10,P55,food,lentil soup,1.0
+907,C23,10,P59,food,chicken stock,1.0
+908,C24,6,P01,house,detergent,2.0
+909,C24,6,P02,house,kitchen roll,3.0
+910,C24,6,P03,house,bin liners,3.0
+911,C24,6,P04,house,shower gel,1.0
+912,C24,6,P05,house,scented candles,1.0
+913,C24,6,P06,house,fabric softener,3.0
+914,C24,6,P07,house,cling film,2.0
+915,C24,6,P08,house,aluminium foil,4.0
+916,C24,6,P09,house,toilet paper,3.0
+917,C24,6,P10,house,kitchen knife,3.0
+918,C24,6,P11,house,dishwasher tablets,1.0
+919,C24,6,P12,house,ice pack,3.0
+920,C24,6,P42,food,chicken,2.0
+921,C24,6,P47,food,whole chicken,1.0
+922,C24,6,P49,food,smoked salmon,1.0
+923,C24,6,P54,food,almond milk,1.0
+924,C24,6,P57,food,parmesan,1.0
+925,C24,6,P59,food,chicken stock,1.0
+926,C24,6,P62,bws,gin,1.0
+927,C24,6,P63,bws,cognac,1.0
+928,C24,6,P64,bws,cigarettes,1.0
+929,C25,9,P37,sweets,gummy bears,1.0
+930,C25,9,P38,sweets,kombucha,2.0
+931,C25,9,P42,food,chicken,4.0
+932,C25,9,P43,food,mince beef,1.0
+933,C25,9,P45,food,hummus,1.0
+934,C25,9,P46,food,activated charcoal croissant,2.0
+935,C25,9,P47,food,whole chicken,2.0
+936,C25,9,P48,food,tuna,1.0
+937,C25,9,P52,food,oats,3.0
+938,C25,9,P53,food,peanut butter,1.0
+939,C25,9,P54,food,almond milk,1.0
+940,C25,9,P58,food,coconut water,1.0
+941,C25,9,P59,food,chicken stock,1.0
+942,C25,9,P60,food,water,1.0
+943,C26,1,P35,sweets,carrot cake,9.0
+944,C26,1,P36,sweets,salted caramel dark chocolate,8.0
+945,C26,1,P37,sweets,gummy bears,4.0
+946,C26,1,P38,sweets,kombucha,8.0
+947,C26,1,P39,sweets,ice cream,7.0
+948,C26,1,P40,sweets,irn bru,7.0
+949,C27,10,P25,fruit_veg,peppers,1.0
+950,C27,10,P27,fruit_veg,potatoes,1.0
+951,C27,10,P28,fruit_veg,grapes,1.0
+952,C27,10,P29,fruit_veg,easy peeler,1.0
+953,C27,10,P39,sweets,ice cream,1.0
+954,C27,10,P40,sweets,irn bru,1.0
+955,C27,10,P44,food,milk,1.0
+956,C27,10,P46,food,activated charcoal croissant,1.0
+957,C27,10,P47,food,whole chicken,1.0
+958,C27,10,P52,food,oats,3.0
+959,C27,10,P53,food,peanut butter,1.0
+960,C27,10,P54,food,almond milk,1.0
+961,C28,3,P22,fruit_veg,avocado,1.0
+962,C28,3,P26,fruit_veg,broccoli,1.0
+963,C28,3,P29,fruit_veg,easy peeler,1.0
+964,C28,3,P30,fruit_veg,mango,1.0
+965,C28,3,P31,fruit_veg,lemon grass,1.0
+966,C28,3,P35,sweets,carrot cake,1.0
+967,C28,3,P37,sweets,gummy bears,1.0
+968,C28,3,P38,sweets,kombucha,1.0
+969,C28,3,P62,bws,gin,1.0
+970,C29,7,P11,house,dishwasher tablets,1.0
+971,C29,7,P12,house,ice pack,2.0
+972,C29,7,P42,food,chicken,2.0
+973,C29,7,P44,food,milk,1.0
+974,C29,7,P48,food,tuna,1.0
+975,C29,7,P50,food,camembert,1.0
+976,C29,7,P51,food,pizza,1.0
+977,C29,7,P59,food,chicken stock,1.0
+978,C29,7,P60,food,water,1.0
+979,C3,8,P04,house,shower gel,2.0
+980,C3,8,P07,house,cling film,1.0
+981,C3,8,P09,house,toilet paper,1.0
+982,C3,8,P11,house,dishwasher tablets,1.0
+983,C3,8,P35,sweets,carrot cake,1.0
+984,C3,8,P39,sweets,ice cream,3.0
+985,C3,8,P40,sweets,irn bru,2.0
+986,C3,8,P63,bws,cognac,2.0
+987,C3,8,P64,bws,cigarettes,3.0
+988,C30,4,P35,sweets,carrot cake,7.0
+989,C30,4,P36,sweets,salted caramel dark chocolate,3.0
+990,C30,4,P37,sweets,gummy bears,1.0
+991,C30,4,P38,sweets,kombucha,3.0
+992,C30,4,P39,sweets,ice cream,3.0
+993,C30,4,P40,sweets,irn bru,2.0
+994,C31,9,P22,fruit_veg,avocado,2.0
+995,C31,9,P23,fruit_veg,cherries,1.0
+996,C31,9,P24,fruit_veg,scotch bonnets,1.0
+997,C31,9,P25,fruit_veg,peppers,3.0
+998,C31,9,P26,fruit_veg,broccoli,1.0
+999,C31,9,P27,fruit_veg,potatoes,1.0
+1000,C31,9,P30,fruit_veg,mango,1.0
+1001,C31,9,P41,food,steak,1.0
+1002,C31,9,P42,food,chicken,4.0
+1003,C31,9,P43,food,mince beef,1.0
+1004,C31,9,P45,food,hummus,4.0
+1005,C31,9,P46,food,activated charcoal croissant,2.0
+1006,C31,9,P47,food,whole chicken,1.0
+1007,C31,9,P48,food,tuna,4.0
+1008,C31,9,P49,food,smoked salmon,1.0
+1009,C31,9,P51,food,pizza,1.0
+1010,C31,9,P52,food,oats,1.0
+1011,C31,9,P53,food,peanut butter,2.0
+1012,C31,9,P54,food,almond milk,1.0
+1013,C31,9,P55,food,lentil soup,2.0
+1014,C31,9,P56,food,greek yoghurt,1.0
+1015,C31,9,P57,food,parmesan,2.0
+1016,C31,9,P58,food,coconut water,3.0
+1017,C31,9,P59,food,chicken stock,3.0
+1018,C31,9,P60,food,water,3.0
+1019,C32,3,P01,house,detergent,1.0
+1020,C32,3,P02,house,kitchen roll,3.0
+1021,C32,3,P03,house,bin liners,3.0
+1022,C32,3,P04,house,shower gel,6.0
+1023,C32,3,P05,house,scented candles,5.0
+1024,C32,3,P06,house,fabric softener,6.0
+1025,C32,3,P07,house,cling film,3.0
+1026,C32,3,P08,house,aluminium foil,1.0
+1027,C32,3,P09,house,toilet paper,3.0
+1028,C32,3,P10,house,kitchen knife,3.0
+1029,C32,3,P11,house,dishwasher tablets,3.0
+1030,C32,3,P12,house,ice pack,3.0
+1031,C33,5,P01,house,detergent,2.0
+1032,C33,5,P02,house,kitchen roll,1.0
+1033,C33,5,P03,house,bin liners,1.0
+1034,C33,5,P06,house,fabric softener,1.0
+1035,C33,5,P07,house,cling film,2.0
+1036,C33,5,P08,house,aluminium foil,1.0
+1037,C33,5,P10,house,kitchen knife,2.0
+1038,C33,5,P11,house,dishwasher tablets,1.0
+1039,C33,5,P22,fruit_veg,avocado,1.0
+1040,C33,5,P23,fruit_veg,cherries,2.0
+1041,C33,5,P24,fruit_veg,scotch bonnets,2.0
+1042,C33,5,P25,fruit_veg,peppers,1.0
+1043,C33,5,P26,fruit_veg,broccoli,1.0
+1044,C33,5,P27,fruit_veg,potatoes,2.0
+1045,C33,5,P29,fruit_veg,easy peeler,1.0
+1046,C33,5,P30,fruit_veg,mango,1.0
+1047,C33,5,P31,fruit_veg,lemon grass,2.0
+1048,C33,5,P34,fruit_veg,raspberries,3.0
+1049,C33,5,P42,food,chicken,1.0
+1050,C33,5,P43,food,mince beef,2.0
+1051,C33,5,P44,food,milk,3.0
+1052,C33,5,P53,food,peanut butter,1.0
+1053,C33,5,P54,food,almond milk,2.0
+1054,C33,5,P57,food,parmesan,1.0
+1055,C33,5,P59,food,chicken stock,1.0
+1056,C33,5,P60,food,water,1.0
+1057,C34,3,P13,clothes,men's dark green trousers,2.0
+1058,C34,3,P14,clothes,women's shoes,1.0
+1059,C34,3,P15,clothes,jumper,1.0
+1060,C34,3,P17,clothes,women's black socks,1.0
+1061,C34,3,P18,clothes,men's striped socks,1.0
+1062,C34,3,P20,clothes,women's blouse,1.0
+1063,C34,3,P25,fruit_veg,peppers,1.0
+1064,C34,3,P26,fruit_veg,broccoli,2.0
+1065,C34,3,P27,fruit_veg,potatoes,1.0
+1066,C34,3,P29,fruit_veg,easy peeler,1.0
+1067,C34,3,P31,fruit_veg,lemon grass,1.0
+1068,C34,3,P32,fruit_veg,onions,3.0
+1069,C34,3,P34,fruit_veg,raspberries,1.0
+1070,C34,3,P35,sweets,carrot cake,1.0
+1071,C34,3,P36,sweets,salted caramel dark chocolate,1.0
+1072,C34,3,P37,sweets,gummy bears,2.0
+1073,C34,3,P38,sweets,kombucha,1.0
+1074,C34,3,P39,sweets,ice cream,1.0
+1075,C35,7,P13,clothes,men's dark green trousers,3.0
+1076,C35,7,P14,clothes,women's shoes,1.0
+1077,C35,7,P16,clothes,men's belt,1.0
+1078,C35,7,P17,clothes,women's black socks,5.0
+1079,C35,7,P18,clothes,men's striped socks,2.0
+1080,C35,7,P19,clothes,men's trainers,2.0
+1081,C35,7,P20,clothes,women's blouse,1.0
+1082,C35,7,P21,clothes,women's red dress,1.0
+1083,C35,7,P23,fruit_veg,cherries,1.0
+1084,C35,7,P26,fruit_veg,broccoli,2.0
+1085,C35,7,P28,fruit_veg,grapes,1.0
+1086,C35,7,P31,fruit_veg,lemon grass,2.0
+1087,C35,7,P32,fruit_veg,onions,1.0
+1088,C35,7,P33,fruit_veg,apples,1.0
+1089,C35,7,P41,food,steak,1.0
+1090,C35,7,P42,food,chicken,2.0
+1091,C35,7,P47,food,whole chicken,1.0
+1092,C35,7,P48,food,tuna,1.0
+1093,C35,7,P50,food,camembert,1.0
+1094,C35,7,P53,food,peanut butter,1.0
+1095,C35,7,P55,food,lentil soup,1.0
+1096,C35,7,P56,food,greek yoghurt,1.0
+1097,C35,7,P59,food,chicken stock,1.0
+1098,C35,7,P62,bws,gin,3.0
+1099,C35,7,P64,bws,cigarettes,4.0
+1100,C36,5,P22,fruit_veg,avocado,3.0
+1101,C36,5,P23,fruit_veg,cherries,7.0
+1102,C36,5,P24,fruit_veg,scotch bonnets,2.0
+1103,C36,5,P25,fruit_veg,peppers,1.0
+1104,C36,5,P26,fruit_veg,broccoli,3.0
+1105,C36,5,P27,fruit_veg,potatoes,2.0
+1106,C36,5,P28,fruit_veg,grapes,2.0
+1107,C36,5,P29,fruit_veg,easy peeler,1.0
+1108,C36,5,P30,fruit_veg,mango,3.0
+1109,C36,5,P31,fruit_veg,lemon grass,2.0
+1110,C36,5,P32,fruit_veg,onions,2.0
+1111,C36,5,P33,fruit_veg,apples,2.0
+1112,C36,5,P34,fruit_veg,raspberries,2.0
+1113,C36,5,P35,sweets,carrot cake,1.0
+1114,C36,5,P36,sweets,salted caramel dark chocolate,3.0
+1115,C36,5,P37,sweets,gummy bears,2.0
+1116,C36,5,P38,sweets,kombucha,2.0
+1117,C36,5,P39,sweets,ice cream,1.0
+1118,C36,5,P40,sweets,irn bru,6.0
+1119,C37,9,P01,house,detergent,1.0
+1120,C37,9,P03,house,bin liners,1.0
+1121,C37,9,P04,house,shower gel,2.0
+1122,C37,9,P05,house,scented candles,2.0
+1123,C37,9,P06,house,fabric softener,1.0
+1124,C37,9,P08,house,aluminium foil,3.0
+1125,C37,9,P09,house,toilet paper,2.0
+1126,C37,9,P10,house,kitchen knife,1.0
+1127,C37,9,P11,house,dishwasher tablets,1.0
+1128,C37,9,P35,sweets,carrot cake,1.0
+1129,C37,9,P36,sweets,salted caramel dark chocolate,1.0
+1130,C37,9,P38,sweets,kombucha,2.0
+1131,C38,7,P35,sweets,carrot cake,4.0
+1132,C38,7,P36,sweets,salted caramel dark chocolate,5.0
+1133,C38,7,P37,sweets,gummy bears,1.0
+1134,C38,7,P38,sweets,kombucha,3.0
+1135,C38,7,P39,sweets,ice cream,1.0
+1136,C38,7,P40,sweets,irn bru,4.0
+1137,C38,7,P46,food,activated charcoal croissant,1.0
+1138,C38,7,P48,food,tuna,1.0
+1139,C38,7,P49,food,smoked salmon,2.0
+1140,C38,7,P53,food,peanut butter,2.0
+1141,C38,7,P56,food,greek yoghurt,1.0
+1142,C38,7,P61,bws,red wine,6.0
+1143,C38,7,P62,bws,gin,2.0
+1144,C38,7,P63,bws,cognac,3.0
+1145,C38,7,P64,bws,cigarettes,3.0
+1146,C39,2,P22,fruit_veg,avocado,1.0
+1147,C39,2,P23,fruit_veg,cherries,1.0
+1148,C39,2,P24,fruit_veg,scotch bonnets,1.0
+1149,C39,2,P25,fruit_veg,peppers,3.0
+1150,C39,2,P29,fruit_veg,easy peeler,2.0
+1151,C39,2,P30,fruit_veg,mango,1.0
+1152,C39,2,P33,fruit_veg,apples,1.0
+1153,C39,2,P42,food,chicken,1.0
+1154,C39,2,P43,food,mince beef,1.0
+1155,C39,2,P46,food,activated charcoal croissant,2.0
+1156,C39,2,P47,food,whole chicken,3.0
+1157,C39,2,P49,food,smoked salmon,2.0
+1158,C39,2,P52,food,oats,1.0
+1159,C39,2,P54,food,almond milk,1.0
+1160,C39,2,P55,food,lentil soup,2.0
+1161,C39,2,P56,food,greek yoghurt,1.0
+1162,C39,2,P57,food,parmesan,1.0
+1163,C39,2,P58,food,coconut water,1.0
+1164,C39,2,P60,food,water,1.0
+1165,C4,5,P35,sweets,carrot cake,2.0
+1166,C4,5,P36,sweets,salted caramel dark chocolate,2.0
+1167,C4,5,P37,sweets,gummy bears,3.0
+1168,C4,5,P38,sweets,kombucha,1.0
+1169,C4,5,P39,sweets,ice cream,3.0
+1170,C4,5,P40,sweets,irn bru,3.0
+1171,C4,5,P43,food,mince beef,2.0
+1172,C4,5,P44,food,milk,1.0
+1173,C4,5,P45,food,hummus,3.0
+1174,C4,5,P48,food,tuna,1.0
+1175,C4,5,P49,food,smoked salmon,1.0
+1176,C4,5,P51,food,pizza,1.0
+1177,C40,4,P10,house,kitchen knife,1.0
+1178,C40,4,P12,house,ice pack,1.0
+1179,C40,4,P26,fruit_veg,broccoli,1.0
+1180,C40,4,P31,fruit_veg,lemon grass,1.0
+1181,C40,4,P33,fruit_veg,apples,1.0
+1182,C40,4,P34,fruit_veg,raspberries,1.0
+1183,C40,4,P35,sweets,carrot cake,2.0
+1184,C40,4,P36,sweets,salted caramel dark chocolate,1.0
+1185,C40,4,P38,sweets,kombucha,1.0
+1186,C40,4,P39,sweets,ice cream,1.0
+1187,C40,4,P41,food,steak,1.0
+1188,C40,4,P43,food,mince beef,1.0
+1189,C40,4,P44,food,milk,1.0
+1190,C40,4,P45,food,hummus,1.0
+1191,C40,4,P51,food,pizza,1.0
+1192,C40,4,P58,food,coconut water,1.0
+1193,C40,4,P61,bws,red wine,1.0
+1194,C40,4,P63,bws,cognac,1.0
+1195,C40,4,P64,bws,cigarettes,2.0
+1196,C41,9,P22,fruit_veg,avocado,1.0
+1197,C41,9,P23,fruit_veg,cherries,4.0
+1198,C41,9,P24,fruit_veg,scotch bonnets,1.0
+1199,C41,9,P26,fruit_veg,broccoli,2.0
+1200,C41,9,P27,fruit_veg,potatoes,2.0
+1201,C41,9,P30,fruit_veg,mango,2.0
+1202,C41,9,P31,fruit_veg,lemon grass,1.0
+1203,C41,9,P32,fruit_veg,onions,1.0
+1204,C41,9,P33,fruit_veg,apples,3.0
+1205,C41,9,P35,sweets,carrot cake,3.0
+1206,C41,9,P37,sweets,gummy bears,1.0
+1207,C41,9,P38,sweets,kombucha,1.0
+1208,C41,9,P39,sweets,ice cream,3.0
+1209,C41,9,P40,sweets,irn bru,1.0
+1210,C41,9,P42,food,chicken,2.0
+1211,C41,9,P43,food,mince beef,1.0
+1212,C41,9,P44,food,milk,2.0
+1213,C41,9,P45,food,hummus,2.0
+1214,C41,9,P47,food,whole chicken,2.0
+1215,C41,9,P48,food,tuna,1.0
+1216,C41,9,P50,food,camembert,1.0
+1217,C41,9,P52,food,oats,1.0
+1218,C41,9,P53,food,peanut butter,1.0
+1219,C41,9,P54,food,almond milk,1.0
+1220,C41,9,P58,food,coconut water,1.0
+1221,C41,9,P59,food,chicken stock,3.0
+1222,C42,2,P01,house,detergent,6.0
+1223,C42,2,P02,house,kitchen roll,3.0
+1224,C42,2,P03,house,bin liners,1.0
+1225,C42,2,P04,house,shower gel,8.0
+1226,C42,2,P05,house,scented candles,4.0
+1227,C42,2,P06,house,fabric softener,3.0
+1228,C42,2,P07,house,cling film,4.0
+1229,C42,2,P08,house,aluminium foil,8.0
+1230,C42,2,P09,house,toilet paper,10.0
+1231,C42,2,P10,house,kitchen knife,6.0
+1232,C42,2,P11,house,dishwasher tablets,1.0
+1233,C42,2,P12,house,ice pack,5.0
+1234,C43,10,P22,fruit_veg,avocado,4.0
+1235,C43,10,P23,fruit_veg,cherries,3.0
+1236,C43,10,P24,fruit_veg,scotch bonnets,3.0
+1237,C43,10,P25,fruit_veg,peppers,4.0
+1238,C43,10,P26,fruit_veg,broccoli,1.0
+1239,C43,10,P27,fruit_veg,potatoes,4.0
+1240,C43,10,P28,fruit_veg,grapes,2.0
+1241,C43,10,P29,fruit_veg,easy peeler,1.0
+1242,C43,10,P30,fruit_veg,mango,1.0
+1243,C43,10,P31,fruit_veg,lemon grass,2.0
+1244,C43,10,P32,fruit_veg,onions,4.0
+1245,C43,10,P33,fruit_veg,apples,3.0
+1246,C43,10,P34,fruit_veg,raspberries,4.0
+1247,C44,9,P22,fruit_veg,avocado,2.0
+1248,C44,9,P25,fruit_veg,peppers,1.0
+1249,C44,9,P27,fruit_veg,potatoes,1.0
+1250,C44,9,P28,fruit_veg,grapes,2.0
+1251,C44,9,P31,fruit_veg,lemon grass,1.0
+1252,C44,9,P32,fruit_veg,onions,1.0
+1253,C44,9,P33,fruit_veg,apples,1.0
+1254,C44,9,P34,fruit_veg,raspberries,1.0
+1255,C44,9,P51,food,pizza,1.0
+1256,C45,10,P02,house,kitchen roll,1.0
+1257,C45,10,P03,house,bin liners,1.0
+1258,C45,10,P04,house,shower gel,1.0
+1259,C45,10,P07,house,cling film,1.0
+1260,C45,10,P08,house,aluminium foil,1.0
+1261,C45,10,P10,house,kitchen knife,2.0
+1262,C45,10,P11,house,dishwasher tablets,1.0
+1263,C45,10,P12,house,ice pack,3.0
+1264,C45,10,P35,sweets,carrot cake,1.0
+1265,C45,10,P36,sweets,salted caramel dark chocolate,3.0
+1266,C45,10,P38,sweets,kombucha,5.0
+1267,C45,10,P39,sweets,ice cream,1.0
+1268,C45,10,P40,sweets,irn bru,3.0
+1269,C45,10,P41,food,steak,1.0
+1270,C45,10,P45,food,hummus,1.0
+1271,C45,10,P46,food,activated charcoal croissant,1.0
+1272,C45,10,P47,food,whole chicken,1.0
+1273,C45,10,P50,food,camembert,1.0
+1274,C45,10,P53,food,peanut butter,1.0
+1275,C45,10,P54,food,almond milk,1.0
+1276,C45,10,P63,bws,cognac,1.0
+1277,C46,5,P03,house,bin liners,3.0
+1278,C46,5,P04,house,shower gel,1.0
+1279,C46,5,P08,house,aluminium foil,1.0
+1280,C46,5,P25,fruit_veg,peppers,1.0
+1281,C46,5,P26,fruit_veg,broccoli,1.0
+1282,C46,5,P30,fruit_veg,mango,1.0
+1283,C46,5,P32,fruit_veg,onions,1.0
+1284,C46,5,P34,fruit_veg,raspberries,1.0
+1285,C46,5,P35,sweets,carrot cake,1.0
+1286,C46,5,P36,sweets,salted caramel dark chocolate,1.0
+1287,C46,5,P37,sweets,gummy bears,1.0
+1288,C46,5,P40,sweets,irn bru,1.0
+1289,C46,5,P48,food,tuna,2.0
+1290,C46,5,P51,food,pizza,1.0
+1291,C46,5,P52,food,oats,1.0
+1292,C46,5,P54,food,almond milk,1.0
+1293,C46,5,P56,food,greek yoghurt,1.0
+1294,C46,5,P58,food,coconut water,1.0
+1295,C46,5,P62,bws,gin,1.0
+1296,C46,5,P63,bws,cognac,1.0
+1297,C47,2,P35,sweets,carrot cake,1.0
+1298,C47,2,P36,sweets,salted caramel dark chocolate,2.0
+1299,C47,2,P40,sweets,irn bru,3.0
+1300,C47,2,P43,food,mince beef,1.0
+1301,C47,2,P44,food,milk,2.0
+1302,C47,2,P45,food,hummus,1.0
+1303,C47,2,P46,food,activated charcoal croissant,1.0
+1304,C47,2,P49,food,smoked salmon,1.0
+1305,C47,2,P50,food,camembert,2.0
+1306,C47,2,P51,food,pizza,1.0
+1307,C47,2,P55,food,lentil soup,1.0
+1308,C47,2,P58,food,coconut water,2.0
+1309,C48,4,P13,clothes,men's dark green trousers,1.0
+1310,C48,4,P14,clothes,women's shoes,1.0
+1311,C48,4,P15,clothes,jumper,1.0
+1312,C48,4,P16,clothes,men's belt,3.0
+1313,C48,4,P17,clothes,women's black socks,1.0
+1314,C48,4,P18,clothes,men's striped socks,1.0
+1315,C48,4,P19,clothes,men's trainers,3.0
+1316,C48,4,P20,clothes,women's blouse,2.0
+1317,C48,4,P21,clothes,women's red dress,3.0
+1318,C48,4,P22,fruit_veg,avocado,1.0
+1319,C48,4,P23,fruit_veg,cherries,2.0
+1320,C48,4,P24,fruit_veg,scotch bonnets,1.0
+1321,C48,4,P25,fruit_veg,peppers,4.0
+1322,C48,4,P26,fruit_veg,broccoli,1.0
+1323,C48,4,P27,fruit_veg,potatoes,3.0
+1324,C48,4,P28,fruit_veg,grapes,2.0
+1325,C48,4,P32,fruit_veg,onions,1.0
+1326,C48,4,P33,fruit_veg,apples,2.0
+1327,C48,4,P34,fruit_veg,raspberries,1.0
+1328,C48,4,P35,sweets,carrot cake,6.0
+1329,C48,4,P36,sweets,salted caramel dark chocolate,2.0
+1330,C48,4,P39,sweets,ice cream,4.0
+1331,C48,4,P40,sweets,irn bru,2.0
+1332,C48,4,P61,bws,red wine,5.0
+1333,C48,4,P62,bws,gin,2.0
+1334,C48,4,P63,bws,cognac,2.0
+1335,C48,4,P64,bws,cigarettes,3.0
+1336,C49,7,P01,house,detergent,2.0
+1337,C49,7,P02,house,kitchen roll,1.0
+1338,C49,7,P03,house,bin liners,3.0
+1339,C49,7,P04,house,shower gel,5.0
+1340,C49,7,P05,house,scented candles,3.0
+1341,C49,7,P06,house,fabric softener,1.0
+1342,C49,7,P07,house,cling film,3.0
+1343,C49,7,P08,house,aluminium foil,4.0
+1344,C49,7,P09,house,toilet paper,2.0
+1345,C49,7,P10,house,kitchen knife,1.0
+1346,C49,7,P12,house,ice pack,2.0
+1347,C49,7,P41,food,steak,2.0
+1348,C49,7,P42,food,chicken,1.0
+1349,C49,7,P43,food,mince beef,4.0
+1350,C49,7,P44,food,milk,2.0
+1351,C49,7,P45,food,hummus,2.0
+1352,C49,7,P47,food,whole chicken,2.0
+1353,C49,7,P48,food,tuna,6.0
+1354,C49,7,P49,food,smoked salmon,1.0
+1355,C49,7,P51,food,pizza,1.0
+1356,C49,7,P52,food,oats,3.0
+1357,C49,7,P53,food,peanut butter,4.0
+1358,C49,7,P54,food,almond milk,1.0
+1359,C49,7,P55,food,lentil soup,3.0
+1360,C49,7,P56,food,greek yoghurt,1.0
+1361,C49,7,P57,food,parmesan,1.0
+1362,C49,7,P58,food,coconut water,1.0
+1363,C49,7,P59,food,chicken stock,1.0
+1364,C49,7,P60,food,water,1.0
+1365,C5,7,P02,house,kitchen roll,3.0
+1366,C5,7,P03,house,bin liners,3.0
+1367,C5,7,P04,house,shower gel,1.0
+1368,C5,7,P05,house,scented candles,2.0
+1369,C5,7,P06,house,fabric softener,3.0
+1370,C5,7,P07,house,cling film,1.0
+1371,C5,7,P09,house,toilet paper,3.0
+1372,C5,7,P10,house,kitchen knife,1.0
+1373,C5,7,P11,house,dishwasher tablets,2.0
+1374,C5,7,P12,house,ice pack,3.0
+1375,C50,8,P03,house,bin liners,2.0
+1376,C50,8,P06,house,fabric softener,1.0
+1377,C50,8,P07,house,cling film,1.0
+1378,C50,8,P08,house,aluminium foil,3.0
+1379,C50,8,P09,house,toilet paper,1.0
+1380,C50,8,P11,house,dishwasher tablets,1.0
+1381,C50,8,P22,fruit_veg,avocado,3.0
+1382,C50,8,P23,fruit_veg,cherries,2.0
+1383,C50,8,P24,fruit_veg,scotch bonnets,1.0
+1384,C50,8,P25,fruit_veg,peppers,3.0
+1385,C50,8,P26,fruit_veg,broccoli,3.0
+1386,C50,8,P28,fruit_veg,grapes,6.0
+1387,C50,8,P29,fruit_veg,easy peeler,2.0
+1388,C50,8,P30,fruit_veg,mango,2.0
+1389,C50,8,P32,fruit_veg,onions,3.0
+1390,C50,8,P33,fruit_veg,apples,3.0
+1391,C50,8,P34,fruit_veg,raspberries,3.0
+1392,C50,8,P35,sweets,carrot cake,3.0
+1393,C50,8,P36,sweets,salted caramel dark chocolate,4.0
+1394,C50,8,P37,sweets,gummy bears,3.0
+1395,C50,8,P38,sweets,kombucha,3.0
+1396,C50,8,P39,sweets,ice cream,6.0
+1397,C50,8,P40,sweets,irn bru,5.0
+1398,C51,3,P22,fruit_veg,avocado,1.0
+1399,C51,3,P23,fruit_veg,cherries,1.0
+1400,C51,3,P24,fruit_veg,scotch bonnets,4.0
+1401,C51,3,P25,fruit_veg,peppers,5.0
+1402,C51,3,P26,fruit_veg,broccoli,1.0
+1403,C51,3,P27,fruit_veg,potatoes,5.0
+1404,C51,3,P28,fruit_veg,grapes,2.0
+1405,C51,3,P29,fruit_veg,easy peeler,2.0
+1406,C51,3,P30,fruit_veg,mango,5.0
+1407,C51,3,P33,fruit_veg,apples,1.0
+1408,C51,3,P34,fruit_veg,raspberries,1.0
+1409,C51,3,P38,sweets,kombucha,3.0
+1410,C51,3,P39,sweets,ice cream,4.0
+1411,C52,1,P22,fruit_veg,avocado,1.0
+1412,C52,1,P23,fruit_veg,cherries,5.0
+1413,C52,1,P24,fruit_veg,scotch bonnets,2.0
+1414,C52,1,P25,fruit_veg,peppers,4.0
+1415,C52,1,P26,fruit_veg,broccoli,3.0
+1416,C52,1,P27,fruit_veg,potatoes,2.0
+1417,C52,1,P28,fruit_veg,grapes,2.0
+1418,C52,1,P29,fruit_veg,easy peeler,4.0
+1419,C52,1,P30,fruit_veg,mango,5.0
+1420,C52,1,P31,fruit_veg,lemon grass,5.0
+1421,C52,1,P32,fruit_veg,onions,5.0
+1422,C52,1,P33,fruit_veg,apples,2.0
+1423,C52,1,P34,fruit_veg,raspberries,4.0
+1424,C52,1,P42,food,chicken,1.0
+1425,C52,1,P43,food,mince beef,3.0
+1426,C52,1,P45,food,hummus,1.0
+1427,C52,1,P49,food,smoked salmon,4.0
+1428,C52,1,P50,food,camembert,3.0
+1429,C52,1,P51,food,pizza,1.0
+1430,C52,1,P52,food,oats,1.0
+1431,C52,1,P54,food,almond milk,1.0
+1432,C52,1,P55,food,lentil soup,1.0
+1433,C52,1,P58,food,coconut water,2.0
+1434,C52,1,P59,food,chicken stock,1.0
+1435,C52,1,P60,food,water,1.0
+1436,C53,4,P22,fruit_veg,avocado,1.0
+1437,C53,4,P24,fruit_veg,scotch bonnets,1.0
+1438,C53,4,P25,fruit_veg,peppers,4.0
+1439,C53,4,P26,fruit_veg,broccoli,4.0
+1440,C53,4,P27,fruit_veg,potatoes,2.0
+1441,C53,4,P28,fruit_veg,grapes,5.0
+1442,C53,4,P30,fruit_veg,mango,6.0
+1443,C53,4,P31,fruit_veg,lemon grass,4.0
+1444,C53,4,P32,fruit_veg,onions,5.0
+1445,C53,4,P33,fruit_veg,apples,2.0
+1446,C53,4,P34,fruit_veg,raspberries,2.0
+1447,C53,4,P35,sweets,carrot cake,3.0
+1448,C53,4,P36,sweets,salted caramel dark chocolate,3.0
+1449,C53,4,P37,sweets,gummy bears,1.0
+1450,C53,4,P38,sweets,kombucha,3.0
+1451,C53,4,P39,sweets,ice cream,3.0
+1452,C53,4,P40,sweets,irn bru,2.0
+1453,C53,4,P62,bws,gin,2.0
+1454,C53,4,P63,bws,cognac,2.0
+1455,C53,4,P64,bws,cigarettes,1.0
+1456,C54,2,P23,fruit_veg,cherries,2.0
+1457,C54,2,P24,fruit_veg,scotch bonnets,1.0
+1458,C54,2,P25,fruit_veg,peppers,2.0
+1459,C54,2,P26,fruit_veg,broccoli,3.0
+1460,C54,2,P28,fruit_veg,grapes,2.0
+1461,C54,2,P30,fruit_veg,mango,2.0
+1462,C54,2,P31,fruit_veg,lemon grass,2.0
+1463,C54,2,P32,fruit_veg,onions,1.0
+1464,C54,2,P33,fruit_veg,apples,1.0
+1465,C54,2,P34,fruit_veg,raspberries,1.0
+1466,C54,2,P35,sweets,carrot cake,8.0
+1467,C54,2,P37,sweets,gummy bears,7.0
+1468,C54,2,P38,sweets,kombucha,2.0
+1469,C54,2,P39,sweets,ice cream,2.0
+1470,C54,2,P61,bws,red wine,4.0
+1471,C54,2,P62,bws,gin,5.0
+1472,C54,2,P63,bws,cognac,5.0
+1473,C54,2,P64,bws,cigarettes,10.0
+1474,C55,8,P01,house,detergent,1.0
+1475,C55,8,P04,house,shower gel,1.0
+1476,C55,8,P06,house,fabric softener,1.0
+1477,C55,8,P07,house,cling film,2.0
+1478,C55,8,P10,house,kitchen knife,1.0
+1479,C55,8,P12,house,ice pack,1.0
+1480,C55,8,P31,fruit_veg,lemon grass,1.0
+1481,C55,8,P34,fruit_veg,raspberries,1.0
+1482,C55,8,P35,sweets,carrot cake,2.0
+1483,C55,8,P37,sweets,gummy bears,1.0
+1484,C55,8,P39,sweets,ice cream,1.0
+1485,C55,8,P40,sweets,irn bru,1.0
+1486,C55,8,P61,bws,red wine,1.0
+1487,C56,4,P01,house,detergent,2.0
+1488,C56,4,P03,house,bin liners,1.0
+1489,C56,4,P04,house,shower gel,2.0
+1490,C56,4,P05,house,scented candles,1.0
+1491,C56,4,P06,house,fabric softener,1.0
+1492,C56,4,P10,house,kitchen knife,1.0
+1493,C56,4,P11,house,dishwasher tablets,1.0
+1494,C56,4,P24,fruit_veg,scotch bonnets,1.0
+1495,C56,4,P25,fruit_veg,peppers,1.0
+1496,C56,4,P31,fruit_veg,lemon grass,1.0
+1497,C56,4,P32,fruit_veg,onions,1.0
+1498,C56,4,P48,food,tuna,2.0
+1499,C56,4,P51,food,pizza,1.0
+1500,C56,4,P56,food,greek yoghurt,1.0
+1501,C56,4,P58,food,coconut water,1.0
+1502,C56,4,P59,food,chicken stock,1.0
+1503,C57,2,P01,house,detergent,3.0
+1504,C57,2,P41,food,steak,1.0
+1505,C57,2,P44,food,milk,1.0
+1506,C57,2,P45,food,hummus,1.0
+1507,C57,2,P47,food,whole chicken,1.0
+1508,C57,2,P48,food,tuna,1.0
+1509,C57,2,P49,food,smoked salmon,3.0
+1510,C57,2,P55,food,lentil soup,1.0
+1511,C57,2,P56,food,greek yoghurt,1.0
+1512,C57,2,P61,bws,red wine,2.0
+1513,C57,2,P62,bws,gin,2.0
+1514,C57,2,P63,bws,cognac,1.0
+1515,C58,6,P35,sweets,carrot cake,5.0
+1516,C58,6,P36,sweets,salted caramel dark chocolate,3.0
+1517,C58,6,P37,sweets,gummy bears,5.0
+1518,C58,6,P38,sweets,kombucha,5.0
+1519,C58,6,P39,sweets,ice cream,1.0
+1520,C58,6,P40,sweets,irn bru,2.0
+1521,C58,6,P41,food,steak,3.0
+1522,C58,6,P42,food,chicken,2.0
+1523,C58,6,P43,food,mince beef,4.0
+1524,C58,6,P44,food,milk,2.0
+1525,C58,6,P46,food,activated charcoal croissant,3.0
+1526,C58,6,P47,food,whole chicken,3.0
+1527,C58,6,P48,food,tuna,2.0
+1528,C58,6,P51,food,pizza,3.0
+1529,C58,6,P52,food,oats,3.0
+1530,C58,6,P53,food,peanut butter,1.0
+1531,C58,6,P54,food,almond milk,3.0
+1532,C58,6,P55,food,lentil soup,2.0
+1533,C58,6,P56,food,greek yoghurt,2.0
+1534,C58,6,P57,food,parmesan,2.0
+1535,C58,6,P58,food,coconut water,1.0
+1536,C58,6,P59,food,chicken stock,1.0
+1537,C59,6,P03,house,bin liners,1.0
+1538,C59,6,P04,house,shower gel,1.0
+1539,C59,6,P08,house,aluminium foil,1.0
+1540,C59,6,P12,house,ice pack,1.0
+1541,C59,6,P23,fruit_veg,cherries,1.0
+1542,C59,6,P24,fruit_veg,scotch bonnets,1.0
+1543,C59,6,P29,fruit_veg,easy peeler,1.0
+1544,C59,6,P32,fruit_veg,onions,1.0
+1545,C59,6,P37,sweets,gummy bears,1.0
+1546,C59,6,P39,sweets,ice cream,1.0
+1547,C59,6,P61,bws,red wine,2.0
+1548,C59,6,P62,bws,gin,4.0
+1549,C59,6,P63,bws,cognac,2.0
+1550,C59,6,P64,bws,cigarettes,4.0
+1551,C6,10,P24,fruit_veg,scotch bonnets,1.0
+1552,C6,10,P26,fruit_veg,broccoli,1.0
+1553,C6,10,P27,fruit_veg,potatoes,1.0
+1554,C6,10,P31,fruit_veg,lemon grass,2.0
+1555,C6,10,P61,bws,red wine,5.0
+1556,C6,10,P62,bws,gin,1.0
+1557,C6,10,P63,bws,cognac,2.0
+1558,C6,10,P64,bws,cigarettes,2.0
+1559,C60,10,P28,fruit_veg,grapes,2.0
+1560,C60,10,P30,fruit_veg,mango,1.0
+1561,C60,10,P32,fruit_veg,onions,2.0
+1562,C60,10,P35,sweets,carrot cake,1.0
+1563,C60,10,P36,sweets,salted caramel dark chocolate,2.0
+1564,C60,10,P37,sweets,gummy bears,2.0
+1565,C60,10,P38,sweets,kombucha,1.0
+1566,C60,10,P40,sweets,irn bru,2.0
+1567,C61,4,P41,food,steak,1.0
+1568,C61,4,P43,food,mince beef,2.0
+1569,C61,4,P44,food,milk,3.0
+1570,C61,4,P45,food,hummus,2.0
+1571,C61,4,P48,food,tuna,1.0
+1572,C61,4,P49,food,smoked salmon,1.0
+1573,C61,4,P50,food,camembert,3.0
+1574,C61,4,P52,food,oats,1.0
+1575,C61,4,P53,food,peanut butter,1.0
+1576,C61,4,P55,food,lentil soup,2.0
+1577,C61,4,P56,food,greek yoghurt,4.0
+1578,C61,4,P57,food,parmesan,2.0
+1579,C61,4,P58,food,coconut water,1.0
+1580,C61,4,P59,food,chicken stock,2.0
+1581,C61,4,P60,food,water,1.0
+1582,C62,6,P42,food,chicken,1.0
+1583,C62,6,P45,food,hummus,1.0
+1584,C62,6,P50,food,camembert,1.0
+1585,C62,6,P51,food,pizza,1.0
+1586,C62,6,P55,food,lentil soup,3.0
+1587,C62,6,P59,food,chicken stock,1.0
+1588,C62,6,P61,bws,red wine,2.0
+1589,C62,6,P62,bws,gin,3.0
+1590,C62,6,P63,bws,cognac,4.0
+1591,C62,6,P64,bws,cigarettes,5.0
+1592,C63,2,P22,fruit_veg,avocado,1.0
+1593,C63,2,P25,fruit_veg,peppers,1.0
+1594,C63,2,P27,fruit_veg,potatoes,1.0
+1595,C63,2,P28,fruit_veg,grapes,1.0
+1596,C63,2,P30,fruit_veg,mango,2.0
+1597,C63,2,P31,fruit_veg,lemon grass,1.0
+1598,C63,2,P32,fruit_veg,onions,1.0
+1599,C63,2,P36,sweets,salted caramel dark chocolate,2.0
+1600,C63,2,P37,sweets,gummy bears,1.0
+1601,C63,2,P39,sweets,ice cream,1.0
+1602,C63,2,P41,food,steak,1.0
+1603,C63,2,P44,food,milk,1.0
+1604,C63,2,P55,food,lentil soup,1.0
+1605,C63,2,P61,bws,red wine,2.0
+1606,C64,10,P22,fruit_veg,avocado,1.0
+1607,C64,10,P23,fruit_veg,cherries,3.0
+1608,C64,10,P24,fruit_veg,scotch bonnets,4.0
+1609,C64,10,P25,fruit_veg,peppers,3.0
+1610,C64,10,P27,fruit_veg,potatoes,4.0
+1611,C64,10,P28,fruit_veg,grapes,2.0
+1612,C64,10,P29,fruit_veg,easy peeler,2.0
+1613,C64,10,P30,fruit_veg,mango,2.0
+1614,C64,10,P31,fruit_veg,lemon grass,3.0
+1615,C64,10,P32,fruit_veg,onions,5.0
+1616,C64,10,P33,fruit_veg,apples,4.0
+1617,C64,10,P42,food,chicken,2.0
+1618,C64,10,P44,food,milk,2.0
+1619,C64,10,P45,food,hummus,1.0
+1620,C64,10,P46,food,activated charcoal croissant,1.0
+1621,C64,10,P47,food,whole chicken,2.0
+1622,C64,10,P48,food,tuna,3.0
+1623,C64,10,P50,food,camembert,1.0
+1624,C64,10,P51,food,pizza,1.0
+1625,C64,10,P52,food,oats,1.0
+1626,C64,10,P53,food,peanut butter,1.0
+1627,C64,10,P54,food,almond milk,2.0
+1628,C64,10,P55,food,lentil soup,2.0
+1629,C64,10,P56,food,greek yoghurt,4.0
+1630,C64,10,P57,food,parmesan,2.0
+1631,C64,10,P58,food,coconut water,2.0
+1632,C64,10,P59,food,chicken stock,4.0
+1633,C64,10,P60,food,water,1.0
+1634,C65,2,P05,house,scented candles,1.0
+1635,C65,2,P06,house,fabric softener,1.0
+1636,C65,2,P08,house,aluminium foil,1.0
+1637,C65,2,P10,house,kitchen knife,1.0
+1638,C65,2,P22,fruit_veg,avocado,1.0
+1639,C65,2,P26,fruit_veg,broccoli,1.0
+1640,C65,2,P29,fruit_veg,easy peeler,1.0
+1641,C65,2,P30,fruit_veg,mango,1.0
+1642,C65,2,P32,fruit_veg,onions,1.0
+1643,C65,2,P33,fruit_veg,apples,1.0
+1644,C65,2,P42,food,chicken,1.0
+1645,C65,2,P45,food,hummus,1.0
+1646,C65,2,P53,food,peanut butter,1.0
+1647,C65,2,P55,food,lentil soup,1.0
+1648,C65,2,P56,food,greek yoghurt,1.0
+1649,C66,10,P35,sweets,carrot cake,6.0
+1650,C66,10,P36,sweets,salted caramel dark chocolate,9.0
+1651,C66,10,P37,sweets,gummy bears,10.0
+1652,C66,10,P38,sweets,kombucha,3.0
+1653,C66,10,P39,sweets,ice cream,5.0
+1654,C66,10,P40,sweets,irn bru,7.0
+1655,C67,4,P13,clothes,men's dark green trousers,2.0
+1656,C67,4,P15,clothes,jumper,2.0
+1657,C67,4,P16,clothes,men's belt,1.0
+1658,C67,4,P18,clothes,men's striped socks,1.0
+1659,C67,4,P20,clothes,women's blouse,1.0
+1660,C67,4,P21,clothes,women's red dress,2.0
+1661,C67,4,P41,food,steak,2.0
+1662,C67,4,P42,food,chicken,2.0
+1663,C67,4,P43,food,mince beef,3.0
+1664,C67,4,P45,food,hummus,2.0
+1665,C67,4,P47,food,whole chicken,3.0
+1666,C67,4,P48,food,tuna,1.0
+1667,C67,4,P49,food,smoked salmon,1.0
+1668,C67,4,P51,food,pizza,2.0
+1669,C67,4,P53,food,peanut butter,3.0
+1670,C67,4,P54,food,almond milk,2.0
+1671,C67,4,P56,food,greek yoghurt,1.0
+1672,C67,4,P57,food,parmesan,2.0
+1673,C67,4,P58,food,coconut water,3.0
+1674,C67,4,P59,food,chicken stock,2.0
+1675,C67,4,P60,food,water,1.0
+1676,C68,8,P23,fruit_veg,cherries,4.0
+1677,C68,8,P24,fruit_veg,scotch bonnets,4.0
+1678,C68,8,P25,fruit_veg,peppers,2.0
+1679,C68,8,P26,fruit_veg,broccoli,3.0
+1680,C68,8,P27,fruit_veg,potatoes,3.0
+1681,C68,8,P28,fruit_veg,grapes,4.0
+1682,C68,8,P30,fruit_veg,mango,1.0
+1683,C68,8,P31,fruit_veg,lemon grass,9.0
+1684,C68,8,P32,fruit_veg,onions,3.0
+1685,C68,8,P33,fruit_veg,apples,3.0
+1686,C68,8,P34,fruit_veg,raspberries,2.0
+1687,C68,8,P35,sweets,carrot cake,2.0
+1688,C68,8,P36,sweets,salted caramel dark chocolate,4.0
+1689,C68,8,P38,sweets,kombucha,6.0
+1690,C68,8,P39,sweets,ice cream,6.0
+1691,C68,8,P40,sweets,irn bru,7.0
+1692,C69,7,P35,sweets,carrot cake,2.0
+1693,C69,7,P36,sweets,salted caramel dark chocolate,2.0
+1694,C69,7,P37,sweets,gummy bears,4.0
+1695,C69,7,P38,sweets,kombucha,3.0
+1696,C69,7,P39,sweets,ice cream,2.0
+1697,C69,7,P40,sweets,irn bru,2.0
+1698,C69,7,P41,food,steak,1.0
+1699,C69,7,P42,food,chicken,1.0
+1700,C69,7,P43,food,mince beef,3.0
+1701,C69,7,P44,food,milk,5.0
+1702,C69,7,P45,food,hummus,2.0
+1703,C69,7,P46,food,activated charcoal croissant,6.0
+1704,C69,7,P47,food,whole chicken,3.0
+1705,C69,7,P48,food,tuna,1.0
+1706,C69,7,P49,food,smoked salmon,1.0
+1707,C69,7,P50,food,camembert,4.0
+1708,C69,7,P51,food,pizza,3.0
+1709,C69,7,P53,food,peanut butter,1.0
+1710,C69,7,P54,food,almond milk,1.0
+1711,C69,7,P55,food,lentil soup,5.0
+1712,C69,7,P56,food,greek yoghurt,2.0
+1713,C69,7,P58,food,coconut water,2.0
+1714,C69,7,P59,food,chicken stock,2.0
+1715,C69,7,P60,food,water,2.0
+1716,C7,3,P36,sweets,salted caramel dark chocolate,1.0
+1717,C7,3,P37,sweets,gummy bears,1.0
+1718,C7,3,P41,food,steak,1.0
+1719,C7,3,P42,food,chicken,1.0
+1720,C7,3,P43,food,mince beef,2.0
+1721,C7,3,P44,food,milk,1.0
+1722,C7,3,P45,food,hummus,1.0
+1723,C7,3,P47,food,whole chicken,1.0
+1724,C7,3,P49,food,smoked salmon,1.0
+1725,C7,3,P51,food,pizza,2.0
+1726,C7,3,P54,food,almond milk,2.0
+1727,C7,3,P55,food,lentil soup,1.0
+1728,C7,3,P56,food,greek yoghurt,1.0
+1729,C7,3,P57,food,parmesan,2.0
+1730,C7,3,P59,food,chicken stock,2.0
+1731,C7,3,P62,bws,gin,1.0
+1732,C7,3,P64,bws,cigarettes,1.0
+1733,C70,9,P35,sweets,carrot cake,7.0
+1734,C70,9,P36,sweets,salted caramel dark chocolate,2.0
+1735,C70,9,P37,sweets,gummy bears,8.0
+1736,C70,9,P38,sweets,kombucha,2.0
+1737,C70,9,P39,sweets,ice cream,8.0
+1738,C70,9,P40,sweets,irn bru,5.0
+1739,C70,9,P41,food,steak,2.0
+1740,C70,9,P44,food,milk,1.0
+1741,C70,9,P50,food,camembert,2.0
+1742,C70,9,P51,food,pizza,1.0
+1743,C70,9,P52,food,oats,1.0
+1744,C70,9,P54,food,almond milk,1.0
+1745,C70,9,P55,food,lentil soup,2.0
+1746,C70,9,P56,food,greek yoghurt,1.0
+1747,C70,9,P59,food,chicken stock,1.0
+1748,C70,9,P60,food,water,3.0
+1749,C71,8,P06,house,fabric softener,1.0
+1750,C71,8,P07,house,cling film,2.0
+1751,C71,8,P08,house,aluminium foil,1.0
+1752,C71,8,P23,fruit_veg,cherries,1.0
+1753,C71,8,P25,fruit_veg,peppers,2.0
+1754,C71,8,P28,fruit_veg,grapes,1.0
+1755,C71,8,P31,fruit_veg,lemon grass,2.0
+1756,C71,8,P34,fruit_veg,raspberries,1.0
+1757,C71,8,P35,sweets,carrot cake,2.0
+1758,C71,8,P37,sweets,gummy bears,3.0
+1759,C71,8,P38,sweets,kombucha,1.0
+1760,C71,8,P39,sweets,ice cream,1.0
+1761,C71,8,P62,bws,gin,2.0
+1762,C72,5,P25,fruit_veg,peppers,1.0
+1763,C72,5,P26,fruit_veg,broccoli,1.0
+1764,C72,5,P27,fruit_veg,potatoes,2.0
+1765,C72,5,P29,fruit_veg,easy peeler,1.0
+1766,C72,5,P30,fruit_veg,mango,1.0
+1767,C72,5,P35,sweets,carrot cake,4.0
+1768,C72,5,P36,sweets,salted caramel dark chocolate,6.0
+1769,C72,5,P37,sweets,gummy bears,4.0
+1770,C72,5,P38,sweets,kombucha,4.0
+1771,C72,5,P39,sweets,ice cream,3.0
+1772,C72,5,P40,sweets,irn bru,3.0
+1773,C73,2,P03,house,bin liners,2.0
+1774,C73,2,P05,house,scented candles,3.0
+1775,C73,2,P06,house,fabric softener,1.0
+1776,C73,2,P07,house,cling film,3.0
+1777,C73,2,P08,house,aluminium foil,2.0
+1778,C73,2,P09,house,toilet paper,4.0
+1779,C73,2,P10,house,kitchen knife,1.0
+1780,C73,2,P11,house,dishwasher tablets,1.0
+1781,C73,2,P12,house,ice pack,1.0
+1782,C73,2,P41,food,steak,2.0
+1783,C73,2,P44,food,milk,1.0
+1784,C73,2,P47,food,whole chicken,2.0
+1785,C73,2,P48,food,tuna,1.0
+1786,C73,2,P49,food,smoked salmon,1.0
+1787,C73,2,P50,food,camembert,1.0
+1788,C73,2,P51,food,pizza,1.0
+1789,C73,2,P55,food,lentil soup,1.0
+1790,C73,2,P56,food,greek yoghurt,2.0
+1791,C73,2,P57,food,parmesan,1.0
+1792,C73,2,P58,food,coconut water,3.0
+1793,C73,2,P59,food,chicken stock,4.0
+1794,C74,5,P01,house,detergent,1.0
+1795,C74,5,P02,house,kitchen roll,1.0
+1796,C74,5,P12,house,ice pack,1.0
+1797,C74,5,P23,fruit_veg,cherries,2.0
+1798,C74,5,P25,fruit_veg,peppers,3.0
+1799,C74,5,P26,fruit_veg,broccoli,5.0
+1800,C74,5,P27,fruit_veg,potatoes,2.0
+1801,C74,5,P28,fruit_veg,grapes,2.0
+1802,C74,5,P29,fruit_veg,easy peeler,2.0
+1803,C74,5,P30,fruit_veg,mango,4.0
+1804,C74,5,P31,fruit_veg,lemon grass,2.0
+1805,C74,5,P32,fruit_veg,onions,1.0
+1806,C74,5,P33,fruit_veg,apples,1.0
+1807,C74,5,P41,food,steak,1.0
+1808,C74,5,P43,food,mince beef,4.0
+1809,C74,5,P44,food,milk,4.0
+1810,C74,5,P45,food,hummus,4.0
+1811,C74,5,P46,food,activated charcoal croissant,1.0
+1812,C74,5,P47,food,whole chicken,2.0
+1813,C74,5,P49,food,smoked salmon,2.0
+1814,C74,5,P51,food,pizza,4.0
+1815,C74,5,P52,food,oats,1.0
+1816,C74,5,P53,food,peanut butter,2.0
+1817,C74,5,P54,food,almond milk,1.0
+1818,C74,5,P55,food,lentil soup,3.0
+1819,C74,5,P57,food,parmesan,2.0
+1820,C74,5,P58,food,coconut water,1.0
+1821,C74,5,P60,food,water,2.0
+1822,C75,8,P41,food,steak,2.0
+1823,C75,8,P43,food,mince beef,1.0
+1824,C75,8,P46,food,activated charcoal croissant,1.0
+1825,C75,8,P48,food,tuna,1.0
+1826,C75,8,P49,food,smoked salmon,1.0
+1827,C75,8,P50,food,camembert,1.0
+1828,C75,8,P52,food,oats,1.0
+1829,C75,8,P53,food,peanut butter,1.0
+1830,C75,8,P55,food,lentil soup,1.0
+1831,C75,8,P56,food,greek yoghurt,1.0
+1832,C75,8,P58,food,coconut water,1.0
+1833,C75,8,P61,bws,red wine,4.0
+1834,C75,8,P62,bws,gin,4.0
+1835,C75,8,P63,bws,cognac,2.0
+1836,C75,8,P64,bws,cigarettes,4.0
+1837,C76,10,P27,fruit_veg,potatoes,1.0
+1838,C76,10,P28,fruit_veg,grapes,1.0
+1839,C76,10,P35,sweets,carrot cake,1.0
+1840,C76,10,P36,sweets,salted caramel dark chocolate,1.0
+1841,C76,10,P37,sweets,gummy bears,2.0
+1842,C76,10,P38,sweets,kombucha,1.0
+1843,C76,10,P39,sweets,ice cream,2.0
+1844,C76,10,P40,sweets,irn bru,2.0
+1845,C76,10,P41,food,steak,2.0
+1846,C76,10,P44,food,milk,1.0
+1847,C76,10,P45,food,hummus,1.0
+1848,C76,10,P46,food,activated charcoal croissant,1.0
+1849,C76,10,P48,food,tuna,1.0
+1850,C76,10,P49,food,smoked salmon,1.0
+1851,C76,10,P50,food,camembert,1.0
+1852,C76,10,P53,food,peanut butter,1.0
+1853,C76,10,P56,food,greek yoghurt,1.0
+1854,C76,10,P57,food,parmesan,2.0
+1855,C77,9,P22,fruit_veg,avocado,1.0
+1856,C77,9,P24,fruit_veg,scotch bonnets,1.0
+1857,C77,9,P25,fruit_veg,peppers,2.0
+1858,C77,9,P26,fruit_veg,broccoli,5.0
+1859,C77,9,P27,fruit_veg,potatoes,1.0
+1860,C77,9,P28,fruit_veg,grapes,1.0
+1861,C77,9,P30,fruit_veg,mango,2.0
+1862,C77,9,P31,fruit_veg,lemon grass,2.0
+1863,C77,9,P32,fruit_veg,onions,2.0
+1864,C77,9,P33,fruit_veg,apples,2.0
+1865,C77,9,P34,fruit_veg,raspberries,2.0
+1866,C78,9,P01,house,detergent,1.0
+1867,C78,9,P02,house,kitchen roll,3.0
+1868,C78,9,P03,house,bin liners,3.0
+1869,C78,9,P04,house,shower gel,3.0
+1870,C78,9,P05,house,scented candles,3.0
+1871,C78,9,P07,house,cling film,3.0
+1872,C78,9,P08,house,aluminium foil,1.0
+1873,C78,9,P09,house,toilet paper,1.0
+1874,C78,9,P10,house,kitchen knife,3.0
+1875,C78,9,P11,house,dishwasher tablets,3.0
+1876,C78,9,P12,house,ice pack,2.0
+1877,C78,9,P42,food,chicken,1.0
+1878,C78,9,P54,food,almond milk,1.0
+1879,C78,9,P56,food,greek yoghurt,1.0
+1880,C78,9,P57,food,parmesan,1.0
+1881,C78,9,P58,food,coconut water,1.0
+1882,C78,9,P61,bws,red wine,2.0
+1883,C78,9,P62,bws,gin,3.0
+1884,C78,9,P63,bws,cognac,3.0
+1885,C78,9,P64,bws,cigarettes,2.0
+1886,C79,1,P42,food,chicken,2.0
+1887,C79,1,P43,food,mince beef,3.0
+1888,C79,1,P44,food,milk,1.0
+1889,C79,1,P46,food,activated charcoal croissant,1.0
+1890,C79,1,P49,food,smoked salmon,1.0
+1891,C79,1,P53,food,peanut butter,1.0
+1892,C79,1,P54,food,almond milk,1.0
+1893,C79,1,P56,food,greek yoghurt,3.0
+1894,C79,1,P57,food,parmesan,1.0
+1895,C79,1,P59,food,chicken stock,1.0
+1896,C79,1,P60,food,water,1.0
+1897,C8,7,P01,house,detergent,1.0
+1898,C8,7,P08,house,aluminium foil,1.0
+1899,C8,7,P14,clothes,women's shoes,1.0
+1900,C8,7,P17,clothes,women's black socks,1.0
+1901,C8,7,P18,clothes,men's striped socks,1.0
+1902,C8,7,P21,clothes,women's red dress,1.0
+1903,C8,7,P41,food,steak,3.0
+1904,C8,7,P42,food,chicken,2.0
+1905,C8,7,P43,food,mince beef,3.0
+1906,C8,7,P44,food,milk,6.0
+1907,C8,7,P45,food,hummus,4.0
+1908,C8,7,P47,food,whole chicken,2.0
+1909,C8,7,P48,food,tuna,4.0
+1910,C8,7,P50,food,camembert,5.0
+1911,C8,7,P51,food,pizza,5.0
+1912,C8,7,P52,food,oats,3.0
+1913,C8,7,P53,food,peanut butter,1.0
+1914,C8,7,P54,food,almond milk,2.0
+1915,C8,7,P55,food,lentil soup,1.0
+1916,C8,7,P57,food,parmesan,4.0
+1917,C8,7,P58,food,coconut water,4.0
+1918,C8,7,P59,food,chicken stock,3.0
+1919,C8,7,P60,food,water,1.0
+1920,C80,9,P35,sweets,carrot cake,1.0
+1921,C80,9,P36,sweets,salted caramel dark chocolate,1.0
+1922,C80,9,P38,sweets,kombucha,1.0
+1923,C80,9,P39,sweets,ice cream,1.0
+1924,C80,9,P61,bws,red wine,2.0
+1925,C80,9,P62,bws,gin,2.0
+1926,C80,9,P63,bws,cognac,2.0
+1927,C80,9,P64,bws,cigarettes,2.0
+1928,C81,7,P13,clothes,men's dark green trousers,1.0
+1929,C81,7,P14,clothes,women's shoes,1.0
+1930,C81,7,P16,clothes,men's belt,3.0
+1931,C81,7,P17,clothes,women's black socks,1.0
+1932,C81,7,P22,fruit_veg,avocado,1.0
+1933,C81,7,P25,fruit_veg,peppers,2.0
+1934,C81,7,P27,fruit_veg,potatoes,1.0
+1935,C81,7,P28,fruit_veg,grapes,1.0
+1936,C81,7,P31,fruit_veg,lemon grass,1.0
+1937,C81,7,P33,fruit_veg,apples,2.0
+1938,C81,7,P34,fruit_veg,raspberries,1.0
+1939,C81,7,P35,sweets,carrot cake,8.0
+1940,C81,7,P36,sweets,salted caramel dark chocolate,3.0
+1941,C81,7,P37,sweets,gummy bears,6.0
+1942,C81,7,P38,sweets,kombucha,5.0
+1943,C81,7,P39,sweets,ice cream,4.0
+1944,C81,7,P40,sweets,irn bru,4.0
+1945,C82,9,P23,fruit_veg,cherries,2.0
+1946,C82,9,P25,fruit_veg,peppers,2.0
+1947,C82,9,P26,fruit_veg,broccoli,1.0
+1948,C82,9,P28,fruit_veg,grapes,1.0
+1949,C82,9,P29,fruit_veg,easy peeler,1.0
+1950,C82,9,P30,fruit_veg,mango,1.0
+1951,C82,9,P32,fruit_veg,onions,2.0
+1952,C82,9,P33,fruit_veg,apples,1.0
+1953,C82,9,P35,sweets,carrot cake,1.0
+1954,C82,9,P37,sweets,gummy bears,1.0
+1955,C82,9,P38,sweets,kombucha,1.0
+1956,C82,9,P39,sweets,ice cream,2.0
+1957,C82,9,P61,bws,red wine,2.0
+1958,C82,9,P62,bws,gin,2.0
+1959,C82,9,P63,bws,cognac,2.0
+1960,C82,9,P64,bws,cigarettes,1.0
+1961,C83,8,P22,fruit_veg,avocado,1.0
+1962,C83,8,P23,fruit_veg,cherries,3.0
+1963,C83,8,P24,fruit_veg,scotch bonnets,4.0
+1964,C83,8,P25,fruit_veg,peppers,4.0
+1965,C83,8,P28,fruit_veg,grapes,5.0
+1966,C83,8,P29,fruit_veg,easy peeler,4.0
+1967,C83,8,P31,fruit_veg,lemon grass,1.0
+1968,C83,8,P32,fruit_veg,onions,4.0
+1969,C83,8,P33,fruit_veg,apples,3.0
+1970,C83,8,P35,sweets,carrot cake,2.0
+1971,C83,8,P36,sweets,salted caramel dark chocolate,4.0
+1972,C83,8,P37,sweets,gummy bears,4.0
+1973,C83,8,P38,sweets,kombucha,1.0
+1974,C83,8,P39,sweets,ice cream,1.0
+1975,C83,8,P40,sweets,irn bru,4.0
+1976,C83,8,P49,food,smoked salmon,1.0
+1977,C83,8,P58,food,coconut water,1.0
+1978,C83,8,P60,food,water,1.0
+1979,C84,1,P02,house,kitchen roll,2.0
+1980,C84,1,P04,house,shower gel,2.0
+1981,C84,1,P05,house,scented candles,3.0
+1982,C84,1,P06,house,fabric softener,1.0
+1983,C84,1,P09,house,toilet paper,1.0
+1984,C84,1,P11,house,dishwasher tablets,1.0
+1985,C84,1,P12,house,ice pack,1.0
+1986,C84,1,P39,sweets,ice cream,1.0
+1987,C84,1,P40,sweets,irn bru,1.0
+1988,C84,1,P47,food,whole chicken,3.0
+1989,C84,1,P49,food,smoked salmon,1.0
+1990,C84,1,P53,food,peanut butter,1.0
+1991,C84,1,P56,food,greek yoghurt,1.0
+1992,C84,1,P60,food,water,1.0
+1993,C85,8,P22,fruit_veg,avocado,9.0
+1994,C85,8,P23,fruit_veg,cherries,5.0
+1995,C85,8,P24,fruit_veg,scotch bonnets,2.0
+1996,C85,8,P25,fruit_veg,peppers,2.0
+1997,C85,8,P26,fruit_veg,broccoli,4.0
+1998,C85,8,P27,fruit_veg,potatoes,1.0
+1999,C85,8,P28,fruit_veg,grapes,6.0
+2000,C85,8,P29,fruit_veg,easy peeler,5.0
+2001,C85,8,P30,fruit_veg,mango,1.0
+2002,C85,8,P31,fruit_veg,lemon grass,6.0
+2003,C85,8,P32,fruit_veg,onions,6.0
+2004,C85,8,P33,fruit_veg,apples,8.0
+2005,C85,8,P34,fruit_veg,raspberries,3.0
+2006,C86,8,P17,clothes,women's black socks,1.0
+2007,C86,8,P20,clothes,women's blouse,2.0
+2008,C86,8,P21,clothes,women's red dress,2.0
+2009,C86,8,P43,food,mince beef,1.0
+2010,C86,8,P44,food,milk,1.0
+2011,C86,8,P51,food,pizza,1.0
+2012,C86,8,P52,food,oats,2.0
+2013,C86,8,P53,food,peanut butter,2.0
+2014,C86,8,P55,food,lentil soup,1.0
+2015,C86,8,P56,food,greek yoghurt,1.0
+2016,C86,8,P57,food,parmesan,1.0
+2017,C86,8,P59,food,chicken stock,1.0
+2018,C86,8,P60,food,water,1.0
+2019,C87,3,P18,clothes,men's striped socks,1.0
+2020,C87,3,P20,clothes,women's blouse,1.0
+2021,C87,3,P21,clothes,women's red dress,1.0
+2022,C87,3,P23,fruit_veg,cherries,1.0
+2023,C87,3,P26,fruit_veg,broccoli,1.0
+2024,C87,3,P28,fruit_veg,grapes,1.0
+2025,C87,3,P30,fruit_veg,mango,1.0
+2026,C87,3,P31,fruit_veg,lemon grass,1.0
+2027,C87,3,P33,fruit_veg,apples,2.0
+2028,C87,3,P34,fruit_veg,raspberries,1.0
+2029,C87,3,P61,bws,red wine,3.0
+2030,C88,1,P13,clothes,men's dark green trousers,1.0
+2031,C88,1,P14,clothes,women's shoes,2.0
+2032,C88,1,P15,clothes,jumper,1.0
+2033,C88,1,P16,clothes,men's belt,1.0
+2034,C88,1,P17,clothes,women's black socks,1.0
+2035,C88,1,P19,clothes,men's trainers,3.0
+2036,C88,1,P20,clothes,women's blouse,1.0
+2037,C88,1,P21,clothes,women's red dress,2.0
+2038,C88,1,P22,fruit_veg,avocado,1.0
+2039,C88,1,P23,fruit_veg,cherries,1.0
+2040,C88,1,P24,fruit_veg,scotch bonnets,2.0
+2041,C88,1,P26,fruit_veg,broccoli,3.0
+2042,C88,1,P27,fruit_veg,potatoes,3.0
+2043,C88,1,P30,fruit_veg,mango,1.0
+2044,C88,1,P31,fruit_veg,lemon grass,5.0
+2045,C88,1,P32,fruit_veg,onions,1.0
+2046,C88,1,P34,fruit_veg,raspberries,2.0
+2047,C88,1,P61,bws,red wine,2.0
+2048,C88,1,P62,bws,gin,4.0
+2049,C88,1,P63,bws,cognac,3.0
+2050,C88,1,P64,bws,cigarettes,3.0
+2051,C89,8,P13,clothes,men's dark green trousers,1.0
+2052,C89,8,P15,clothes,jumper,1.0
+2053,C89,8,P18,clothes,men's striped socks,1.0
+2054,C89,8,P19,clothes,men's trainers,1.0
+2055,C89,8,P20,clothes,women's blouse,1.0
+2056,C89,8,P35,sweets,carrot cake,1.0
+2057,C89,8,P36,sweets,salted caramel dark chocolate,1.0
+2058,C89,8,P37,sweets,gummy bears,2.0
+2059,C89,8,P38,sweets,kombucha,1.0
+2060,C89,8,P39,sweets,ice cream,2.0
+2061,C89,8,P40,sweets,irn bru,2.0
+2062,C89,8,P42,food,chicken,1.0
+2063,C89,8,P43,food,mince beef,1.0
+2064,C89,8,P45,food,hummus,2.0
+2065,C89,8,P46,food,activated charcoal croissant,1.0
+2066,C89,8,P47,food,whole chicken,2.0
+2067,C89,8,P49,food,smoked salmon,2.0
+2068,C89,8,P50,food,camembert,1.0
+2069,C89,8,P52,food,oats,2.0
+2070,C89,8,P54,food,almond milk,2.0
+2071,C89,8,P56,food,greek yoghurt,1.0
+2072,C89,8,P57,food,parmesan,2.0
+2073,C89,8,P58,food,coconut water,1.0
+2074,C9,8,P35,sweets,carrot cake,10.0
+2075,C9,8,P36,sweets,salted caramel dark chocolate,8.0
+2076,C9,8,P37,sweets,gummy bears,9.0
+2077,C9,8,P38,sweets,kombucha,12.0
+2078,C9,8,P39,sweets,ice cream,15.0
+2079,C9,8,P40,sweets,irn bru,12.0
+2080,C90,3,P22,fruit_veg,avocado,2.0
+2081,C90,3,P23,fruit_veg,cherries,1.0
+2082,C90,3,P24,fruit_veg,scotch bonnets,3.0
+2083,C90,3,P25,fruit_veg,peppers,1.0
+2084,C90,3,P26,fruit_veg,broccoli,2.0
+2085,C90,3,P27,fruit_veg,potatoes,2.0
+2086,C90,3,P28,fruit_veg,grapes,1.0
+2087,C90,3,P29,fruit_veg,easy peeler,4.0
+2088,C90,3,P30,fruit_veg,mango,2.0
+2089,C90,3,P31,fruit_veg,lemon grass,1.0
+2090,C90,3,P32,fruit_veg,onions,4.0
+2091,C90,3,P33,fruit_veg,apples,1.0
+2092,C90,3,P34,fruit_veg,raspberries,2.0
+2093,C91,3,P01,house,detergent,1.0
+2094,C91,3,P05,house,scented candles,1.0
+2095,C91,3,P31,fruit_veg,lemon grass,1.0
+2096,C91,3,P32,fruit_veg,onions,1.0
+2097,C91,3,P33,fruit_veg,apples,1.0
+2098,C91,3,P34,fruit_veg,raspberries,2.0
+2099,C91,3,P37,sweets,gummy bears,1.0
+2100,C91,3,P45,food,hummus,1.0
+2101,C91,3,P47,food,whole chicken,1.0
+2102,C91,3,P49,food,smoked salmon,1.0
+2103,C91,3,P51,food,pizza,1.0
+2104,C91,3,P55,food,lentil soup,1.0
+2105,C91,3,P58,food,coconut water,1.0
+2106,C91,3,P61,bws,red wine,2.0
+2107,C91,3,P62,bws,gin,2.0
+2108,C91,3,P63,bws,cognac,3.0
+2109,C91,3,P64,bws,cigarettes,2.0
+2110,C92,1,P13,clothes,men's dark green trousers,2.0
+2111,C92,1,P14,clothes,women's shoes,4.0
+2112,C92,1,P15,clothes,jumper,4.0
+2113,C92,1,P16,clothes,men's belt,9.0
+2114,C92,1,P17,clothes,women's black socks,3.0
+2115,C92,1,P18,clothes,men's striped socks,4.0
+2116,C92,1,P19,clothes,men's trainers,3.0
+2117,C92,1,P20,clothes,women's blouse,6.0
+2118,C92,1,P21,clothes,women's red dress,5.0
+2119,C92,1,P22,fruit_veg,avocado,2.0
+2120,C92,1,P23,fruit_veg,cherries,1.0
+2121,C92,1,P24,fruit_veg,scotch bonnets,2.0
+2122,C92,1,P25,fruit_veg,peppers,3.0
+2123,C92,1,P26,fruit_veg,broccoli,3.0
+2124,C92,1,P27,fruit_veg,potatoes,3.0
+2125,C92,1,P29,fruit_veg,easy peeler,3.0
+2126,C92,1,P30,fruit_veg,mango,2.0
+2127,C92,1,P32,fruit_veg,onions,2.0
+2128,C92,1,P33,fruit_veg,apples,2.0
+2129,C93,5,P01,house,detergent,3.0
+2130,C93,5,P03,house,bin liners,4.0
+2131,C93,5,P04,house,shower gel,1.0
+2132,C93,5,P05,house,scented candles,1.0
+2133,C93,5,P06,house,fabric softener,1.0
+2134,C93,5,P07,house,cling film,2.0
+2135,C93,5,P08,house,aluminium foil,1.0
+2136,C93,5,P09,house,toilet paper,2.0
+2137,C93,5,P10,house,kitchen knife,1.0
+2138,C93,5,P11,house,dishwasher tablets,1.0
+2139,C93,5,P12,house,ice pack,1.0
+2140,C93,5,P22,fruit_veg,avocado,3.0
+2141,C93,5,P24,fruit_veg,scotch bonnets,5.0
+2142,C93,5,P25,fruit_veg,peppers,3.0
+2143,C93,5,P26,fruit_veg,broccoli,1.0
+2144,C93,5,P28,fruit_veg,grapes,1.0
+2145,C93,5,P29,fruit_veg,easy peeler,3.0
+2146,C93,5,P31,fruit_veg,lemon grass,5.0
+2147,C93,5,P32,fruit_veg,onions,3.0
+2148,C93,5,P33,fruit_veg,apples,5.0
+2149,C94,10,P06,house,fabric softener,1.0
+2150,C94,10,P11,house,dishwasher tablets,1.0
+2151,C94,10,P12,house,ice pack,1.0
+2152,C94,10,P23,fruit_veg,cherries,1.0
+2153,C94,10,P26,fruit_veg,broccoli,4.0
+2154,C94,10,P27,fruit_veg,potatoes,2.0
+2155,C94,10,P30,fruit_veg,mango,1.0
+2156,C94,10,P32,fruit_veg,onions,1.0
+2157,C94,10,P35,sweets,carrot cake,1.0
+2158,C94,10,P37,sweets,gummy bears,1.0
+2159,C94,10,P39,sweets,ice cream,1.0
+2160,C94,10,P40,sweets,irn bru,1.0
+2161,C94,10,P42,food,chicken,1.0
+2162,C94,10,P43,food,mince beef,1.0
+2163,C94,10,P46,food,activated charcoal croissant,1.0
+2164,C94,10,P50,food,camembert,1.0
+2165,C95,7,P01,house,detergent,1.0
+2166,C95,7,P02,house,kitchen roll,3.0
+2167,C95,7,P03,house,bin liners,2.0
+2168,C95,7,P04,house,shower gel,1.0
+2169,C95,7,P05,house,scented candles,1.0
+2170,C95,7,P07,house,cling film,3.0
+2171,C95,7,P10,house,kitchen knife,5.0
+2172,C95,7,P11,house,dishwasher tablets,1.0
+2173,C95,7,P12,house,ice pack,1.0
+2174,C95,7,P50,food,camembert,1.0
+2175,C95,7,P55,food,lentil soup,1.0
+2176,C95,7,P57,food,parmesan,1.0
+2177,C95,7,P59,food,chicken stock,1.0
+2178,C95,7,P61,bws,red wine,1.0
+2179,C95,7,P62,bws,gin,3.0
+2180,C95,7,P63,bws,cognac,1.0
+2181,C96,10,P61,bws,red wine,5.0
+2182,C96,10,P62,bws,gin,4.0
+2183,C96,10,P63,bws,cognac,1.0
+2184,C96,10,P64,bws,cigarettes,6.0
+2185,C97,9,P24,fruit_veg,scotch bonnets,1.0
+2186,C97,9,P28,fruit_veg,grapes,2.0
+2187,C97,9,P31,fruit_veg,lemon grass,1.0
+2188,C97,9,P33,fruit_veg,apples,1.0
+2189,C97,9,P34,fruit_veg,raspberries,1.0
+2190,C97,9,P35,sweets,carrot cake,3.0
+2191,C97,9,P36,sweets,salted caramel dark chocolate,1.0
+2192,C97,9,P37,sweets,gummy bears,2.0
+2193,C97,9,P38,sweets,kombucha,1.0
+2194,C97,9,P45,food,hummus,2.0
+2195,C97,9,P49,food,smoked salmon,1.0
+2196,C97,9,P51,food,pizza,1.0
+2197,C97,9,P57,food,parmesan,2.0
+2198,C97,9,P59,food,chicken stock,1.0
+2199,C98,7,P02,house,kitchen roll,2.0
+2200,C98,7,P06,house,fabric softener,1.0
+2201,C98,7,P07,house,cling film,1.0
+2202,C98,7,P08,house,aluminium foil,1.0
+2203,C98,7,P09,house,toilet paper,1.0
+2204,C98,7,P13,clothes,men's dark green trousers,2.0
+2205,C98,7,P16,clothes,men's belt,1.0
+2206,C98,7,P22,fruit_veg,avocado,1.0
+2207,C98,7,P25,fruit_veg,peppers,2.0
+2208,C98,7,P27,fruit_veg,potatoes,1.0
+2209,C98,7,P28,fruit_veg,grapes,2.0
+2210,C98,7,P29,fruit_veg,easy peeler,2.0
+2211,C98,7,P32,fruit_veg,onions,1.0
+2212,C99,9,P35,sweets,carrot cake,3.0
+2213,C99,9,P36,sweets,salted caramel dark chocolate,9.0
+2214,C99,9,P37,sweets,gummy bears,6.0
+2215,C99,9,P38,sweets,kombucha,2.0
+2216,C99,9,P39,sweets,ice cream,5.0
+2217,C99,9,P40,sweets,irn bru,5.0
+2218,C99,9,P41,food,steak,2.0
+2219,C99,9,P43,food,mince beef,1.0
+2220,C99,9,P45,food,hummus,1.0
+2221,C99,9,P46,food,activated charcoal croissant,2.0
+2222,C99,9,P47,food,whole chicken,2.0
+2223,C99,9,P48,food,tuna,1.0
+2224,C99,9,P49,food,smoked salmon,2.0
+2225,C99,9,P50,food,camembert,3.0
+2226,C99,9,P52,food,oats,3.0
+2227,C99,9,P53,food,peanut butter,1.0
+2228,C99,9,P54,food,almond milk,2.0
+2229,C99,9,P55,food,lentil soup,1.0
+2230,C99,9,P58,food,coconut water,2.0
+2231,C99,9,P59,food,chicken stock,1.0
+2232,C99,9,P60,food,water,3.0
